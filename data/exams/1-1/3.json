@@ -1,0 +1,344 @@
+[
+  {
+    "word": "Lottery",
+    "korean": "복권, 추첨",
+    "english": "a game or drawing in which prizes are awarded by chance",
+    "synonyms": "Raffle, Drawing, Prize draw"
+  },
+  {
+    "word": "Subscription",
+    "korean": "정기 구독",
+    "english": "an arrangement to receive a service or publication regularly",
+    "synonyms": "Regular service, Periodical order"
+  },
+  {
+    "word": "Ignite",
+    "korean": "점화하다",
+    "english": "to set something on fire or cause it to begin burning",
+    "synonyms": "Kindle, Light, Set alight"
+  },
+  {
+    "word": "Haunted",
+    "korean": "무서운",
+    "english": "frightening or seeming to be visited by ghosts",
+    "synonyms": "Ghostly, Eerie, Spooky"
+  },
+  {
+    "word": "Outrage",
+    "korean": "분노",
+    "english": "a strong feeling of anger and shock",
+    "synonyms": "Fury, Indignation, Anger"
+  },
+  {
+    "word": "Profusely",
+    "korean": "풍부하게",
+    "english": "in large amounts or abundance",
+    "synonyms": "Abundantly, Copiously, Plentifully"
+  },
+  {
+    "word": "Uneasily",
+    "korean": "불안하게",
+    "english": "in a worried, uncomfortable, or nervous way",
+    "synonyms": "Nervously, Anxiously, Apprehensively"
+  },
+  {
+    "word": "Boisterous",
+    "korean": "시끄러운",
+    "english": "noisy, energetic, and cheerful",
+    "synonyms": "Rowdy, Noisy, Rambunctious"
+  },
+  {
+    "word": "Reprimand",
+    "korean": "야단치다, 꾸짖다",
+    "english": "to officially scold or criticize someone",
+    "synonyms": "Rebuke, Scold, Admonish"
+  },
+  {
+    "word": "Pronounce",
+    "korean": "발음하다",
+    "english": "to say a word or sound in a particular way",
+    "synonyms": "Articulate, Enunciate, Utter"
+  },
+  {
+    "word": "Guard",
+    "korean": "지키다",
+    "english": "to protect or watch over something",
+    "synonyms": "Protect, Defend, Watch over"
+  },
+  {
+    "word": "Survey",
+    "korean": "관찰하다, 조사하다",
+    "english": "to examine, observe, or investigate carefully",
+    "synonyms": "Examine, Inspect, Investigate"
+  },
+  {
+    "word": "Reluctantly",
+    "korean": "망설이는, 주저하는, 마지못해",
+    "english": "with hesitation or unwillingness",
+    "synonyms": "Unwillingly, Hesitantly, Grudgingly"
+  },
+  {
+    "word": "Conduct",
+    "korean": "실행하다",
+    "english": "to carry out or perform an activity",
+    "synonyms": "Perform, Execute, Carry out"
+  },
+  {
+    "word": "Civic activity",
+    "korean": "시민 활동",
+    "english": "an activity involving participation in community or public life",
+    "synonyms": "Community participation, Public engagement"
+  },
+  {
+    "word": "Stool",
+    "korean": "등받이 없는 의자",
+    "english": "a simple seat without a back",
+    "synonyms": "Backless seat"
+  },
+  {
+    "word": "Discard",
+    "korean": "버리다",
+    "english": "to throw away or get rid of something",
+    "synonyms": "Throw away, Dispose of, Reject"
+  },
+  {
+    "word": "Substitute",
+    "korean": "대체하다",
+    "english": "to use one thing in place of another",
+    "synonyms": "Replace, Exchange, Swap"
+  },
+  {
+    "word": "Fussing",
+    "korean": "소란을 피우다",
+    "english": "making unnecessary complaints or anxious activity",
+    "synonyms": "Fretting, Complaining, Fidgeting"
+  },
+  {
+    "word": "Soberly",
+    "korean": "맑은 정신으로, 진지하게",
+    "english": "in a serious, calm, or clear-minded way",
+    "synonyms": "Seriously, Calmly, Rationally"
+  },
+  {
+    "word": "Disengage",
+    "korean": "~로 부터 벗어나다",
+    "english": "to separate or free oneself from something",
+    "synonyms": "Detach, Separate, Withdraw"
+  },
+  {
+    "word": "Grin",
+    "korean": "웃다",
+    "english": "to smile broadly",
+    "synonyms": "Smile broadly, Beam"
+  },
+  {
+    "word": "Blink",
+    "korean": "눈을 깜박이다",
+    "english": "to quickly close and open the eyes",
+    "synonyms": "Flutter eyelids, Bat eyelids"
+  },
+  {
+    "word": "Duck",
+    "korean": "머리를 수그리다",
+    "english": "to lower the head or body quickly",
+    "synonyms": "Stoop, Lower oneself, Crouch"
+  },
+  {
+    "word": "Petulantly",
+    "korean": "짜증스럽게",
+    "english": "in an irritable or bad-tempered way",
+    "synonyms": "Irritably, Peevishly, Crossly"
+  },
+  {
+    "word": "Defiantly",
+    "korean": "용감하게 반항하는, 도전적으로",
+    "english": "in a bold and resistant manner",
+    "synonyms": "Boldly, Rebelliously, Challengingly"
+  },
+  {
+    "word": "Rattled",
+    "korean": "방울 소리, 달그락거리다",
+    "english": "shaken with a rapid clattering sound or made nervous",
+    "synonyms": "Clattered, Jangled, Shaken"
+  },
+  {
+    "word": "Interminable",
+    "korean": "끝없는",
+    "english": "seeming to continue without end",
+    "synonyms": "Endless, Unending, Never-ending"
+  },
+  {
+    "word": "Crane",
+    "korean": "목을 길게 빼다",
+    "english": "to stretch the neck to see something better",
+    "synonyms": "Stretch neck, Peer"
+  },
+  {
+    "word": "Farewell",
+    "korean": "작별인사, 안녕",
+    "english": "an expression used when saying goodbye",
+    "synonyms": "Goodbye, Leave-taking, Parting"
+  },
+  {
+    "word": "Acorn",
+    "korean": "도토리",
+    "english": "the nut of an oak tree",
+    "synonyms": "Oak nut"
+  },
+  {
+    "word": "Chronicle",
+    "korean": "연대기",
+    "english": "a record of events in the order they happened",
+    "synonyms": "Annals, Record, History"
+  },
+  {
+    "word": "Stoutly",
+    "korean": "강하게",
+    "english": "in a strong, firm, or determined way",
+    "synonyms": "Firmly, Strongly, Resolutely"
+  },
+  {
+    "word": "Safe",
+    "korean": "금고",
+    "english": "a strong locked box for valuables",
+    "synonyms": "Strongbox, Lockbox, Secure vault"
+  },
+  {
+    "word": "Splintered",
+    "korean": "쪼개지다",
+    "english": "broken or split into thin sharp pieces",
+    "synonyms": "Shattered, Fragmented, Split"
+  },
+  {
+    "word": "Stuffed",
+    "korean": "구겨넣은",
+    "english": "filled or packed tightly into a space",
+    "synonyms": "Crammed, Packed, Jammed"
+  },
+  {
+    "word": "Raid",
+    "korean": "폭격, 습격",
+    "english": "a sudden attack or surprise assault",
+    "synonyms": "Attack, Assault, Air strike"
+  },
+  {
+    "word": "Fade",
+    "korean": "사라지다, 희미해지다",
+    "english": "to gradually become weaker, dimmer, or disappear",
+    "synonyms": "Diminish, Dim, Disappear"
+  },
+  {
+    "word": "Snort",
+    "korean": "흥소리를 내다, 코웃음을 치다",
+    "english": "to make a sudden rough sound through the nose",
+    "synonyms": "Snuffle, Huff, Scoff"
+  },
+  {
+    "word": "Intrinsic",
+    "korean": "타고난, 고유한",
+    "english": "belonging naturally or essentially to something",
+    "synonyms": "Inherent, Innate, Essential"
+  },
+  {
+    "word": "Fraught",
+    "korean": "많은, 가득한",
+    "english": "filled with or accompanied by something difficult",
+    "synonyms": "Filled, Laden, Charged"
+  },
+  {
+    "word": "Self-esteem",
+    "korean": "자기 존중, 자부심",
+    "english": "confidence in one’s own worth or abilities",
+    "synonyms": "Self-worth, Self-respect, Confidence"
+  },
+  {
+    "word": "Predisposed to",
+    "korean": "~하기 쉬운",
+    "english": "naturally inclined or likely to do or experience something",
+    "synonyms": "Prone to, Inclined to, Susceptible to"
+  },
+  {
+    "word": "Self-regard",
+    "korean": "자기 존경, 자존감, 자존심",
+    "english": "respect or consideration for oneself",
+    "synonyms": "Self-respect, Self-esteem, Pride"
+  },
+  {
+    "word": "Adolescence",
+    "korean": "청소년기",
+    "english": "the period between childhood and adulthood",
+    "synonyms": "Teenage years, Youth"
+  },
+  {
+    "word": "Coincide",
+    "korean": "동시에 발생하다",
+    "english": "to happen at the same time",
+    "synonyms": "Concur, Synchronize, Co-occur"
+  },
+  {
+    "word": "Omnipotence",
+    "korean": "전지전능한",
+    "english": "the state of having unlimited power",
+    "synonyms": "Almightiness, Unlimited power"
+  },
+  {
+    "word": "Jeopardy",
+    "korean": "위기, 위험",
+    "english": "danger of loss, harm, or failure",
+    "synonyms": "Danger, Peril, Risk"
+  },
+  {
+    "word": "Liken",
+    "korean": "~와 비슷한",
+    "english": "to compare one thing to another as similar",
+    "synonyms": "Compare, Equate, Draw parallels"
+  },
+  {
+    "word": "Spearheaded",
+    "korean": "화살촉, 화살 머리",
+    "english": "led or initiated an activity, movement, or project",
+    "synonyms": "Led, Initiated, Pioneered"
+  },
+  {
+    "word": "Intrigue",
+    "korean": "촉진시키다, 강한 흥미를 불러일으키다",
+    "english": "to arouse strong curiosity or interest",
+    "synonyms": "Fascinate, Interest, Captivate"
+  },
+  {
+    "word": "Accumulation",
+    "korean": "축적",
+    "english": "a gradual gathering or buildup of something",
+    "synonyms": "Buildup, Amassing, Aggregation"
+  },
+  {
+    "word": "Upswing",
+    "korean": "갑자기 증가하는",
+    "english": "a noticeable rise or improvement",
+    "synonyms": "Upturn, Rise, Increase"
+  },
+  {
+    "word": "Chaos",
+    "korean": "혼란, 혼돈",
+    "english": "complete disorder and confusion",
+    "synonyms": "Disorder, Confusion, Turmoil"
+  },
+  {
+    "word": "Enigmatic",
+    "korean": "수수께끼 같은, 불가사의한",
+    "english": "mysterious and difficult to understand",
+    "synonyms": "Mysterious, Cryptic, Puzzling"
+  },
+  {
+    "word": "Sullen",
+    "korean": "무뚝뚝한, 퉁명스러운",
+    "english": "gloomy, silent, and bad-tempered",
+    "synonyms": "Surly, Sulky, Morose"
+  },
+  {
+    "word": "Transition",
+    "korean": "변환, 전환",
+    "english": "a change from one state or condition to another",
+    "synonyms": "Change, Shift, Conversion"
+  }
+]

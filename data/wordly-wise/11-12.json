@@ -1,0 +1,182 @@
+[
+  {
+    "word": "Amenity",
+    "korean": "편의를 제공하는 물품들",
+    "english": "a useful or pleasant feature that provides comfort or convenience",
+    "synonyms": "Convenience, Facility, Comfort"
+  },
+  {
+    "word": "Averse",
+    "korean": "싫어하는",
+    "english": "strongly opposed to or unwilling to do something",
+    "synonyms": "Opposed, Disinclined, Reluctant"
+  },
+  {
+    "word": "Complacent",
+    "korean": "만족스러운",
+    "english": "too satisfied with a situation to notice possible problems",
+    "synonyms": "Smug, Self-satisfied, Satisfied"
+  },
+  {
+    "word": "Decompose",
+    "korean": "썩다",
+    "english": "to decay or break down into simpler parts",
+    "synonyms": "Decay, Rot, Break down"
+  },
+  {
+    "word": "Defray",
+    "korean": "제공하다, 돈을 지불하다",
+    "english": "to pay all or part of a cost or expense",
+    "synonyms": "Pay, Cover, Meet costs"
+  },
+  {
+    "word": "Emanate",
+    "korean": "~로부터 분출되어 나오다",
+    "english": "to come, flow, or spread out from a source",
+    "synonyms": "Issue, Flow, Radiate"
+  },
+  {
+    "word": "Envisage",
+    "korean": "상상하다",
+    "english": "to imagine or picture a future possibility",
+    "synonyms": "Imagine, Envision, Picture"
+  },
+  {
+    "word": "Facetious",
+    "korean": "익살스러운",
+    "english": "joking about something that should perhaps be taken seriously",
+    "synonyms": "Joking, Flippant, Humorous"
+  },
+  {
+    "word": "Fallacy",
+    "korean": "오류",
+    "english": "a mistaken belief or an error in reasoning",
+    "synonyms": "Error, Misconception, Falsehood"
+  },
+  {
+    "word": "Furor",
+    "korean": "화난, 화",
+    "english": "a sudden strong outburst of anger, excitement, or controversy",
+    "synonyms": "Rage, Fury"
+  },
+  {
+    "word": "Idyll",
+    "korean": "서정적인",
+    "english": "a peaceful or idealized scene, experience, or period of time",
+    "synonyms": "Pastoral scene, Peaceful episode, Pastoral poem"
+  },
+  {
+    "word": "Paucity",
+    "korean": "부족함",
+    "english": "a small or insufficient amount of something",
+    "synonyms": "Scarcity, Shortage, Insufficiency"
+  },
+  {
+    "word": "Porous",
+    "korean": "구멍이 숭숭난",
+    "english": "having many small holes that allow liquid or air to pass through",
+    "synonyms": "Permeable, Hole-filled, Spongy"
+  },
+  {
+    "word": "Supersede",
+    "korean": "대체하다",
+    "english": "to replace something older or less effective",
+    "synonyms": "Replace, Supplant, Displace"
+  },
+  {
+    "word": "Tangible",
+    "korean": "만질 수 있는",
+    "english": "able to be touched or physically perceived",
+    "synonyms": "Touchable, Palpable, Physical"
+  },
+  {
+    "word": "Adversity",
+    "korean": "역경",
+    "english": "a difficult or unfavorable situation or condition",
+    "synonyms": "Hardship, Misfortune, Difficulty"
+  },
+  {
+    "word": "Cardinal",
+    "korean": "중요한",
+    "english": "of fundamental or primary importance",
+    "synonyms": "Fundamental, Essential, Crucial"
+  },
+  {
+    "word": "Credible",
+    "korean": "믿을 수 있는",
+    "english": "able to be believed, trusted, or accepted as true",
+    "synonyms": "Believable, Trustworthy, Plausible"
+  },
+  {
+    "word": "Empathize",
+    "korean": "감정 이입하다",
+    "english": "to understand and share another person's feelings",
+    "synonyms": "Understand, Relate to, Identify with"
+  },
+  {
+    "word": "Faculty",
+    "korean": "타고난 능력",
+    "english": "a natural mental or physical ability",
+    "synonyms": "Ability, Capacity, Aptitude"
+  },
+  {
+    "word": "Harrowing",
+    "korean": "괴롭히다",
+    "english": "extremely distressing, painful, or frightening",
+    "synonyms": "Distressing, Agonizing, Tormenting"
+  },
+  {
+    "word": "Impair",
+    "korean": "손상하다",
+    "english": "to damage, weaken, or reduce the quality of something",
+    "synonyms": "Damage, Weaken, Diminish"
+  },
+  {
+    "word": "Infer",
+    "korean": "추론하다",
+    "english": "to reach a conclusion from evidence or reasoning",
+    "synonyms": "Deduce, Conclude, Reason"
+  },
+  {
+    "word": "Intuition",
+    "korean": "직관",
+    "english": "the ability to understand something without conscious reasoning",
+    "synonyms": "Instinct, Hunch, Insight"
+  },
+  {
+    "word": "Manifest",
+    "korean": "확실하게 보여주다",
+    "english": "to show or demonstrate something clearly",
+    "synonyms": "Show, Demonstrate, Reveal"
+  },
+  {
+    "word": "Nuance",
+    "korean": "말의 미묘한 차이",
+    "english": "a subtle difference in meaning, tone, or expression",
+    "synonyms": "Subtlety, Shade, Fine distinction"
+  },
+  {
+    "word": "Pernicious",
+    "korean": "해로운",
+    "english": "having a harmful effect, especially in a gradual or subtle way",
+    "synonyms": "Harmful, Damaging, Detrimental"
+  },
+  {
+    "word": "Solace",
+    "korean": "위로",
+    "english": "comfort received during sadness, distress, or disappointment",
+    "synonyms": "Comfort, Consolation, Relief"
+  },
+  {
+    "word": "Treatise",
+    "korean": "논문",
+    "english": "a formal written work that examines a subject in detail",
+    "synonyms": "Dissertation, Monograph, Scholarly work"
+  },
+  {
+    "word": "Vogue",
+    "korean": "유행",
+    "english": "a popular fashion, style, or trend at a particular time",
+    "synonyms": "Fashion, Trend, Craze"
+  }
+]

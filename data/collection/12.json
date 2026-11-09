@@ -1,0 +1,1976 @@
+[
+  {
+    "word": "Minister",
+    "korean": "성직자, 목사",
+    "english": "A religious leader who conducts worship, especially in a Protestant church",
+    "synonyms": "Clergyperson, Pastor",
+    "example": "The minister welcomed the new families to the church."
+  },
+  {
+    "word": "Segregation",
+    "korean": "(인종 · 종교 · 성별에 따른) 분리",
+    "english": "The separation of people into groups based on race, religion, or sex",
+    "synonyms": "Separation, Isolation",
+    "example": "Students protested against racial segregation in their schools."
+  },
+  {
+    "word": "Crucial",
+    "korean": "중대한, 결정적인",
+    "english": "Extremely important to the outcome or success of something",
+    "synonyms": "Critical, Vital, Decisive",
+    "example": "Her final goal was crucial to the team's victory."
+  },
+  {
+    "word": "Assassinated",
+    "korean": "암살당하다",
+    "english": "Murdered in a planned attack, often for political reasons",
+    "synonyms": "Murdered, Slain",
+    "example": "The president was assassinated shortly after leaving the theater."
+  },
+  {
+    "word": "Untimely",
+    "korean": "때 이른, 시기상조의",
+    "english": "Happening earlier than expected or at an unsuitable time",
+    "synonyms": "Premature, Early, Inopportune",
+    "example": "The writer's untimely death left her final novel unfinished."
+  },
+  {
+    "word": "Correspondence",
+    "korean": "(남과 주고받는) 서신 [편지]",
+    "english": "Letters or messages exchanged between people",
+    "synonyms": "Letters, Mail",
+    "example": "The museum displays the poet's correspondence with her friends."
+  },
+  {
+    "word": "Affiliated",
+    "korean": "소속된, 연계된",
+    "english": "Officially or closely connected with an organization",
+    "synonyms": "Associated, Connected, Linked",
+    "example": "Our school is affiliated with a local university."
+  },
+  {
+    "word": "Deemed",
+    "korean": "여겨지다",
+    "english": "Considered or judged to have a particular quality",
+    "synonyms": "Considered, Regarded, Judged",
+    "example": "The old bridge was deemed unsafe after the storm."
+  },
+  {
+    "word": "Superficial",
+    "korean": "깊이 없는, 얄팍한",
+    "english": "Lacking depth of thought or understanding",
+    "synonyms": "Shallow, Cursory",
+    "example": "His superficial explanation ignored the main causes of the conflict."
+  },
+  {
+    "word": "Grapple",
+    "korean": "붙잡고 싸우다",
+    "english": "To struggle with someone while holding them",
+    "synonyms": "Wrestle, Tussle",
+    "example": "The two wrestlers grapple for control on the mat."
+  },
+  {
+    "word": "Engulf",
+    "korean": "에워싸다",
+    "english": "To surround and completely cover something",
+    "synonyms": "Envelop, Surround, Swallow up",
+    "example": "Thick smoke began to engulf the empty building."
+  },
+  {
+    "word": "Brutality",
+    "korean": "잔인성, 야만성",
+    "english": "Extreme cruelty or violent treatment",
+    "synonyms": "Cruelty, Savagery",
+    "example": "The report exposed the brutality of the prison guards."
+  },
+  {
+    "word": "Grossly",
+    "korean": "지독히, 극도로",
+    "english": "To an extreme degree, especially in a bad or unacceptable way",
+    "synonyms": "Extremely, Excessively",
+    "example": "The newspaper grossly exaggerated the size of the crowd."
+  },
+  {
+    "word": "Unjust",
+    "korean": "부당한, 불공평한",
+    "english": "Not fair or morally right",
+    "synonyms": "Unfair, Inequitable",
+    "example": "The students challenged the unjust rule."
+  },
+  {
+    "word": "Merchant",
+    "korean": "상인, (특히) 무역상",
+    "english": "A person who buys and sells goods for profit, especially through trade",
+    "synonyms": "Trader, Dealer",
+    "example": "The merchant imported silk from distant countries."
+  },
+  {
+    "word": "Retaliate",
+    "korean": "보복하다, 앙갚음하다",
+    "english": "To respond to harm or an attack by harming or attacking in return",
+    "synonyms": "Strike back, Get revenge",
+    "example": "She refused to retaliate when her classmates insulted her."
+  },
+  {
+    "word": "Mindful",
+    "korean": "... 을 염두에 두는 [의식 하는], 유념하는",
+    "english": "Aware of something and careful to take it into consideration",
+    "synonyms": "Aware, Conscious, Attentive",
+    "example": "Please be mindful of other passengers when using your phone."
+  },
+  {
+    "word": "Postponement",
+    "korean": "연기",
+    "english": "The act of moving an event or action to a later time",
+    "synonyms": "Delay, Deferment",
+    "example": "Heavy rain led to the postponement of the school picnic."
+  },
+  {
+    "word": "Foster",
+    "korean": "조성하다, 발전시키다",
+    "english": "To help a feeling, ability, or situation develop",
+    "synonyms": "Encourage, Promote, Nurture",
+    "example": "Group projects can foster cooperation among students."
+  },
+  {
+    "word": "Privilege",
+    "korean": "특전 [특혜]",
+    "english": "A special right or advantage available to a particular person or group",
+    "synonyms": "Special right, Benefit, Advantage",
+    "example": "Access to the private library was a privilege reserved for members."
+  },
+  {
+    "word": "Voluntarily",
+    "korean": "자유의사로, 자발적으로",
+    "english": "By choice and without being forced",
+    "synonyms": "Willingly, Freely",
+    "example": "The students voluntarily stayed after class to clean the room."
+  },
+  {
+    "word": "Creep",
+    "korean": "기다, 천천히 움직이다",
+    "english": "To crawl or move very slowly and quietly",
+    "synonyms": "Crawl, Inch, Sneak",
+    "example": "We watched a small beetle creep across the path."
+  },
+  {
+    "word": "At whim",
+    "korean": "변덕스럽게",
+    "english": "According to a sudden wish rather than a fixed plan",
+    "synonyms": "Capriciously, Impulsively",
+    "example": "The director changed the rehearsal schedule at whim."
+  },
+  {
+    "word": "Smothering",
+    "korean": "질식시켜 죽이다",
+    "english": "Killing by preventing someone from breathing",
+    "synonyms": "Suffocating, Asphyxiating",
+    "example": "In the story, the villain was accused of smothering the king in his sleep."
+  },
+  {
+    "word": "Inferiority",
+    "korean": "열등함",
+    "english": "The state of being lower in quality, ability, or status",
+    "synonyms": "Lower quality, Lower status",
+    "example": "A lack of expensive equipment does not prove a team's inferiority."
+  },
+  {
+    "word": "Concoct",
+    "korean": "(이야기·변명 등을) 지어내다",
+    "english": "To invent a story or excuse, often to deceive someone",
+    "synonyms": "Invent, Fabricate, Make up",
+    "example": "He tried to concoct an excuse for missing the meeting."
+  },
+  {
+    "word": "Harried",
+    "korean": "몹시 곤란을 겪는, 어찌할 바를 모르는",
+    "english": "Troubled and stressed by too many demands or problems",
+    "synonyms": "Harassed, Hassled, Overwhelmed",
+    "example": "The harried teacher tried to answer several questions at once."
+  },
+  {
+    "word": "Humiliated",
+    "korean": "굴욕을 당하다",
+    "english": "Made to feel deeply ashamed or embarrassed",
+    "synonyms": "Embarrassed, Shamed, Mortified",
+    "example": "She felt humiliated when her mistake was mocked in public."
+  },
+  {
+    "word": "Legitimate",
+    "korean": "합법적인, 적법한",
+    "english": "Allowed by law or accepted rules",
+    "synonyms": "Legal, Lawful, Licit",
+    "example": "The lawyer confirmed that the business was legitimate."
+  },
+  {
+    "word": "Advocate",
+    "korean": "지지하다[옹호하다]",
+    "english": "To publicly support or argue in favor of something",
+    "synonyms": "Support, Champion, Endorse",
+    "example": "Many doctors advocate regular exercise for better health."
+  },
+  {
+    "word": "Uplift",
+    "korean": "(위로)올리기, 증가",
+    "english": "An upward lifting or an increase in amount or value",
+    "synonyms": "Rise, Increase, Elevation",
+    "example": "The new advertising campaign produced an uplift in sales."
+  },
+  {
+    "word": "Degrade",
+    "korean": "비하[모멸]하다",
+    "english": "To treat someone with disrespect and damage their dignity",
+    "synonyms": "Demean, Humiliate, Belittle",
+    "example": "Cruel jokes can degrade the people they target."
+  },
+  {
+    "word": "Ordinance",
+    "korean": "법령, 조례",
+    "english": "An official rule or law, especially one made by a local government",
+    "synonyms": "Regulation, Decree, Statute",
+    "example": "A new city ordinance limits noise near schools."
+  },
+  {
+    "word": "Relegate",
+    "korean": "강등시키다",
+    "english": "To move someone or something to a lower rank or less important position",
+    "synonyms": "Demote, Downgrade",
+    "example": "The coach decided to relegate the player to the reserve team."
+  },
+  {
+    "word": "Evading",
+    "korean": "피하다[모면하다]",
+    "english": "Avoiding something difficult, unwanted, or required",
+    "synonyms": "Avoiding, Dodging, Eluding",
+    "example": "The official kept evading questions about the missing money."
+  },
+  {
+    "word": "Defying",
+    "korean": "반항[저항/거역]하다",
+    "english": "Refusing to obey or openly resisting someone or something",
+    "synonyms": "Disobeying, Resisting, Challenging",
+    "example": "The protesters were defying orders to leave the square."
+  },
+  {
+    "word": "Rabid",
+    "korean": "과격한, 광적인",
+    "english": "Extremely fierce or fanatical in one's opinions or enthusiasm",
+    "synonyms": "Fanatical, Extreme, Frenzied",
+    "example": "The proposal attracted criticism from rabid opponents of change."
+  },
+  {
+    "word": "Anarchy",
+    "korean": "무정부 상태, 난장판",
+    "english": "A lack of government or authority; a state of severe disorder",
+    "synonyms": "Lawlessness, Chaos, Disorder",
+    "example": "Without clear rules, the meeting soon descended into anarchy."
+  },
+  {
+    "word": "Civil",
+    "korean": "시민(들)의",
+    "english": "Relating to citizens and their rights or public affairs",
+    "synonyms": "Civic",
+    "example": "The campaign called for equal civil rights for all citizens."
+  },
+  {
+    "word": "Disobedience",
+    "korean": "불복종, 반항, 거역",
+    "english": "A refusal or failure to obey rules or authority",
+    "synonyms": "Defiance, Noncompliance, Rebellion",
+    "example": "The captain would not tolerate disobedience from the crew."
+  },
+  {
+    "word": "Sublimely",
+    "korean": "심하게",
+    "english": "To a complete or extreme degree",
+    "synonyms": "Utterly, Completely",
+    "example": "He remained sublimely unaware of the trouble his remarks had caused."
+  },
+  {
+    "word": "Excruciating",
+    "korean": "몹시 고통스러운, 극심한",
+    "english": "Causing extreme physical or mental pain",
+    "synonyms": "Agonizing, Torturous, Intense",
+    "example": "She felt excruciating pain in her ankle after the fall."
+  },
+  {
+    "word": "Suppressed",
+    "korean": "억압된",
+    "english": "Held back or put down by force or authority",
+    "synonyms": "Repressed, Stifled, Subdued",
+    "example": "The suppressed protests revealed how little freedom people had."
+  },
+  {
+    "word": "Lukewarm",
+    "korean": "미지근한",
+    "english": "Only slightly warm rather than hot",
+    "synonyms": "Tepid, Slightly warm",
+    "example": "By the time I finished my homework, my tea was lukewarm."
+  },
+  {
+    "word": "Bewildering",
+    "korean": "어리둥절하게, 갈피를 못 잡게 하는",
+    "english": "So confusing that it is difficult to understand or know what to do",
+    "synonyms": "Confusing, Puzzling, Baffling",
+    "example": "The bewildering instructions left the students unsure where to begin."
+  },
+  {
+    "word": "Obnoxious",
+    "korean": "아주 불쾌한, 몹시 기분 나쁜",
+    "english": "Extremely unpleasant or offensive",
+    "synonyms": "Offensive, Disgusting, Unpleasant",
+    "example": "His obnoxious comments upset everyone at the table."
+  },
+  {
+    "word": "Precipitate",
+    "korean": "(특히 나쁜 일을) 촉발시키다",
+    "english": "To cause an event, especially an unwelcome one, to happen suddenly",
+    "synonyms": "Trigger, Provoke, Bring about",
+    "example": "The sudden closure of the factory could precipitate an economic crisis."
+  },
+  {
+    "word": "Populace",
+    "korean": "대중들",
+    "english": "The ordinary people of a place or country",
+    "synonyms": "Public, People, Masses",
+    "example": "The mayor promised to listen to the concerns of the populace."
+  },
+  {
+    "word": "Crucifixion",
+    "korean": "십자가에 매달아 죽이는 것",
+    "english": "Execution by fastening a person to a cross and leaving them to die",
+    "synonyms": "Execution on a cross",
+    "example": "The history lesson explained how crucifixion was used in ancient Rome."
+  },
+  {
+    "word": "Misconception",
+    "korean": "오해",
+    "english": "An incorrect belief or understanding about something",
+    "synonyms": "Misunderstanding, Mistaken belief, False impression",
+    "example": "The experiment corrected a common misconception about how plants grow."
+  },
+  {
+    "word": "Inevitably",
+    "korean": "필연적이다시피",
+    "english": "In a way that cannot be avoided or is bound to happen",
+    "synonyms": "Unavoidably, Inescapably, Necessarily",
+    "example": "Without enough rain, the river will inevitably begin to dry up."
+  },
+  {
+    "word": "Appalling",
+    "korean": "간담을 서늘케 하는, 끔찍한",
+    "english": "Causing great shock, horror, or disgust",
+    "synonyms": "Horrifying, Shocking, Dreadful",
+    "example": "The rescuers found the animals living in appalling conditions."
+  },
+  {
+    "word": "Stagnation",
+    "korean": "괨, 침체, 정체 ; 부진, 불경기",
+    "english": "A state with little or no flow, activity, growth, or progress",
+    "synonyms": "Inactivity, Stasis, Standstill",
+    "example": "Years of economic stagnation left many young people without jobs."
+  },
+  {
+    "word": "Clergyman",
+    "korean": "(기독교의) 남자 성직자",
+    "english": "A male religious leader, especially in a Christian church",
+    "synonyms": "Minister, Pastor, Priest",
+    "example": "The clergyman visited the family to offer comfort after their loss."
+  },
+  {
+    "word": "Complacency",
+    "korean": "현 상태에 만족함, 안주",
+    "english": "Self-satisfaction that makes someone overlook problems or dangers",
+    "synonyms": "Self-satisfaction, Smugness",
+    "example": "The coach warned the winning team against complacency."
+  },
+  {
+    "word": "Repudiated",
+    "korean": "거부하다, 물리치다",
+    "english": "Rejected or refused to accept or support something",
+    "synonyms": "Rejected, Disowned, Spurned",
+    "example": "The committee repudiated the claim that the results had been altered."
+  },
+  {
+    "word": "Oppressed",
+    "korean": "억압당하는, 탄압받는",
+    "english": "Treated harshly or unfairly by people who have power",
+    "synonyms": "Persecuted, Subjugated, Downtrodden",
+    "example": "The oppressed villagers demanded equal rights and fair treatment."
+  },
+  {
+    "word": "Manifest",
+    "korean": "나타내다",
+    "english": "To show a feeling, quality, or condition clearly",
+    "synonyms": "Show, Display, Reveal",
+    "example": "Her actions manifest a deep concern for the environment."
+  },
+  {
+    "word": "Urgency",
+    "korean": "긴급, 화급, 절박, 급박, 위급, 위기",
+    "english": "The need for immediate attention or action",
+    "synonyms": "Pressing need, Insistence, Immediacy",
+    "example": "The urgency of the situation made further delay impossible."
+  },
+  {
+    "word": "Resentment",
+    "korean": "분함, 억울함, 분개",
+    "english": "Lasting anger or bitterness about being treated unfairly",
+    "synonyms": "Bitterness, Indignation, Grudge",
+    "example": "Resentment grew when the workers learned that their wages would be cut."
+  },
+  {
+    "word": "Discontent",
+    "korean": "불만, 불만스러운 것",
+    "english": "Dissatisfaction with one's situation or with the way things are",
+    "synonyms": "Dissatisfaction, Displeasure, Unhappiness",
+    "example": "The sudden fee increase caused widespread discontent among residents."
+  },
+  {
+    "word": "Despitefully",
+    "korean": "악의에 차서, 심술궂게",
+    "english": "In a deliberately cruel or malicious manner",
+    "synonyms": "Spitefully, Maliciously, Malevolently",
+    "example": "The jealous rival spoke despitefully about her success."
+  },
+  {
+    "word": "Righteousness",
+    "korean": "정의, 정직, 공정, 당연",
+    "english": "The quality of being morally right, honest, or just",
+    "synonyms": "Rectitude, Uprightness, Justice",
+    "example": "She believed in the righteousness of the campaign for equal rights."
+  },
+  {
+    "word": "Dire",
+    "korean": "대단히 심각한, 엄청난, 지독한",
+    "english": "Extremely serious or terrible and often requiring urgent action",
+    "synonyms": "Dreadful, Desperate, Grave",
+    "example": "The drought left the village in dire need of clean water."
+  },
+  {
+    "word": "Optimistic",
+    "korean": "낙관적인, 낙관하는",
+    "english": "Hopeful and expecting good things to happen",
+    "synonyms": "Hopeful, Positive, Upbeat",
+    "example": "Despite the setback, the team remained optimistic about its chances."
+  },
+  {
+    "word": "Eloquent",
+    "korean": "웅변을 잘하는, 유창한",
+    "english": "Able to express ideas fluently, clearly, and persuasively",
+    "synonyms": "Articulate, Fluent, Expressive",
+    "example": "The eloquent speaker persuaded the audience to support the project."
+  },
+  {
+    "word": "Roach-infested",
+    "korean": "바퀴벌레가 우글거리는",
+    "english": "Containing large numbers of unwanted cockroaches",
+    "synonyms": "Crawling with cockroaches",
+    "example": "The tenants refused to stay in the roach-infested apartment."
+  },
+  {
+    "word": "Prophetic",
+    "korean": "예언의, 예언적인",
+    "english": "Predicting future events or relating to prophecy",
+    "synonyms": "Predictive, Foretelling, Prescient",
+    "example": "Her warning about the failing dam proved prophetic."
+  },
+  {
+    "word": "Antidote",
+    "korean": "해독제",
+    "english": "A substance that counteracts the harmful effects of a poison",
+    "synonyms": "Counterpoison",
+    "example": "The doctor quickly administered an antidote to the poison."
+  },
+  {
+    "word": "Plight",
+    "korean": "역경, 곤경",
+    "english": "A difficult, dangerous, or unfortunate situation",
+    "synonyms": "Predicament, Difficulty, Hardship",
+    "example": "The news report drew attention to the plight of families displaced by the flood."
+  },
+  {
+    "word": "Deboning",
+    "korean": "발골",
+    "english": "The removal of bones from meat or fish",
+    "synonyms": "Boning, Bone removal",
+    "example": "Deboning the chicken takes time and care."
+  },
+  {
+    "word": "Inversion",
+    "korean": "(위치, 순서 등의) 도치, 전도",
+    "english": "A reversal of the usual position or order of something",
+    "synonyms": "Reversal, Reordering",
+    "example": "The poem uses inversion to place the verb before the subject."
+  },
+  {
+    "word": "Equidistant",
+    "korean": "등거리의",
+    "english": "At the same distance from two or more points",
+    "synonyms": "Equally distant",
+    "example": "Our school is equidistant from the two stations."
+  },
+  {
+    "word": "Screech",
+    "korean": "쌩(끼익) 하는 소리를 내다",
+    "english": "To make a loud, sharp, high-pitched sound",
+    "synonyms": "Squeal, Shriek",
+    "example": "The brakes screech whenever the bus stops suddenly."
+  },
+  {
+    "word": "Transpire",
+    "korean": "일어나다, 발생하다",
+    "english": "To happen or take place",
+    "synonyms": "Occur, Happen, Take place",
+    "example": "No one could predict what would transpire during the meeting."
+  },
+  {
+    "word": "Denounce",
+    "korean": "맹렬히 비난하다",
+    "english": "To condemn someone or something strongly and publicly",
+    "synonyms": "Condemn, Censure, Decry",
+    "example": "The students gathered to denounce the unfair policy."
+  },
+  {
+    "word": "Flagrantly",
+    "korean": "눈꼴 사납게, 극악하게",
+    "english": "In an openly and obviously offensive or wrongful way",
+    "synonyms": "Blatantly, Brazenly, Outrageously",
+    "example": "The company flagrantly ignored the safety rules."
+  },
+  {
+    "word": "Usurp",
+    "korean": "(왕좌, 권좌 등을) 빼앗다, 찬탈하다",
+    "english": "To seize power or a position without a lawful right",
+    "synonyms": "Seize, Appropriate, Take over",
+    "example": "The general planned to usurp the throne."
+  },
+  {
+    "word": "Withholding",
+    "korean": "절식",
+    "english": "The act of holding back or refusing to provide something, such as food",
+    "synonyms": "Holding back, Refusal to provide",
+    "example": "Withholding food from himself was his chosen form of protest."
+  },
+  {
+    "word": "Suppress",
+    "korean": "진압하다",
+    "english": "To stop a rebellion or disturbance by force",
+    "synonyms": "Quell, Subdue, Put down",
+    "example": "The troops were ordered to suppress the rebellion."
+  },
+  {
+    "word": "Blurt out",
+    "korean": "무심결에 말하다, 불쑥 말하다",
+    "english": "To say something suddenly without thinking first",
+    "synonyms": "Let slip, Exclaim",
+    "example": "Please do not blurt out the answer before everyone has finished."
+  },
+  {
+    "word": "Probability",
+    "korean": "개연성",
+    "english": "The likelihood that something will happen or be true",
+    "synonyms": "Likelihood, Chance",
+    "example": "There is a high probability of rain this afternoon."
+  },
+  {
+    "word": "Equation",
+    "korean": "(여러 가지 요소들을 고려해야 하는) 상황, 문제",
+    "english": "A situation involving several factors that must be considered together",
+    "synonyms": "Situation, Problem",
+    "example": "Cost is only one part of the equation when choosing a school."
+  },
+  {
+    "word": "Mask",
+    "korean": "마스크, 복면",
+    "english": "A covering worn over all or part of the face",
+    "synonyms": "Face covering, Disguise",
+    "example": "The actor wore a mask to hide his face."
+  },
+  {
+    "word": "Exploit",
+    "korean": "(부당하게) 이용하다",
+    "english": "To use someone or something unfairly for personal gain",
+    "synonyms": "Take advantage of, Misuse, Abuse",
+    "example": "Some employers exploit workers who cannot easily find other jobs."
+  },
+  {
+    "word": "Ore",
+    "korean": "광석",
+    "english": "Rock containing a useful mineral that can be extracted",
+    "synonyms": "Mineral-bearing rock",
+    "example": "The mine produces ore containing iron."
+  },
+  {
+    "word": "Ensuing",
+    "korean": "뒤따르는",
+    "english": "Happening after something else, often as a result",
+    "synonyms": "Following, Subsequent, Succeeding",
+    "example": "The storm and the ensuing floods damaged many homes."
+  },
+  {
+    "word": "Enact",
+    "korean": "(법을) 제정하다",
+    "english": "To make a proposal into law through an official process",
+    "synonyms": "Legislate, Pass, Make law",
+    "example": "The government plans to enact a law protecting wetlands."
+  },
+  {
+    "word": "Imminent",
+    "korean": "금방이라도 닥칠 듯한, 목전의, 임박한",
+    "english": "About to happen very soon",
+    "synonyms": "Impending, Approaching, Forthcoming",
+    "example": "Dark clouds warned us that a storm was imminent."
+  },
+  {
+    "word": "Logistically",
+    "korean": "병참의, 수송의",
+    "english": "In a way involving the organization of supplies, transport, or other practical arrangements",
+    "synonyms": "In terms of logistics",
+    "example": "Moving all the equipment in one day would be logistically difficult."
+  },
+  {
+    "word": "Impurity",
+    "korean": "불순물",
+    "english": "An unwanted substance mixed with another substance",
+    "synonyms": "Contaminant, Pollutant",
+    "example": "The filter removes every impurity from the water."
+  },
+  {
+    "word": "Extract",
+    "korean": "발췌, 초록",
+    "english": "A short passage taken from a longer piece of writing",
+    "synonyms": "Excerpt, Passage, Selection",
+    "example": "We read an extract from the novel in class."
+  },
+  {
+    "word": "Deluge",
+    "korean": "폭우, 호우",
+    "english": "A very heavy fall of rain",
+    "synonyms": "Downpour, Torrent",
+    "example": "A sudden deluge flooded the streets."
+  },
+  {
+    "word": "Subterranean",
+    "korean": "지하의",
+    "english": "Located or occurring below the surface of the earth",
+    "synonyms": "Underground, Subsurface",
+    "example": "The explorers discovered a subterranean river."
+  },
+  {
+    "word": "Peril",
+    "korean": "(심각한) 위험",
+    "english": "Serious danger or the possibility of harm",
+    "synonyms": "Danger, Jeopardy, Risk",
+    "example": "The climbers were in peril as the storm approached."
+  },
+  {
+    "word": "Diminish",
+    "korean": "줄어들다, 약해지다, 줄이다, 약화시키다",
+    "english": "To become or make smaller in amount, importance, or strength",
+    "synonyms": "Decrease, Lessen, Reduce",
+    "example": "The pain should diminish after a few days."
+  },
+  {
+    "word": "Drainage",
+    "korean": "배수 시설",
+    "english": "A system of channels or pipes that carries away excess water",
+    "synonyms": "Drain system, Water channels",
+    "example": "The town improved its drainage to prevent flooding."
+  },
+  {
+    "word": "Revitalization",
+    "korean": "새로운 활력(생명, 힘)을 줌",
+    "english": "The process of giving something new energy, strength, or life",
+    "synonyms": "Renewal, Rejuvenation, Revival",
+    "example": "The new library played a major role in the revitalization of the neighborhood."
+  },
+  {
+    "word": "Usher",
+    "korean": "안내하다",
+    "english": "To guide or accompany someone to a place",
+    "synonyms": "Guide, Escort, Lead",
+    "example": "A volunteer will usher visitors into the hall."
+  },
+  {
+    "word": "Inexplicable",
+    "korean": "불가해한, 설명할 수 없는",
+    "english": "Impossible to explain or account for",
+    "synonyms": "Unexplainable, Mysterious, Incomprehensible",
+    "example": "The camera stopped working for some inexplicable reason."
+  },
+  {
+    "word": "Petrified",
+    "korean": "극도로 무서워하는, 겁에 질린",
+    "english": "So frightened that one can hardly move or act",
+    "synonyms": "Terrified, Panic-stricken, Scared stiff",
+    "example": "She was petrified when she heard footsteps outside the empty house."
+  },
+  {
+    "word": "Extinction",
+    "korean": "멸종, 절멸, 소멸",
+    "english": "The disappearance or complete ending of a species or other thing",
+    "synonyms": "Disappearance, Annihilation, Dying out",
+    "example": "Conservation efforts saved the species from extinction."
+  },
+  {
+    "word": "Unravel",
+    "korean": "풀다",
+    "english": "To untangle something or solve a complicated problem",
+    "synonyms": "Untangle, Disentangle, Solve",
+    "example": "The detective worked to unravel the mystery."
+  },
+  {
+    "word": "Cessation",
+    "korean": "중단, 중지",
+    "english": "The stopping or ending of an activity",
+    "synonyms": "Stoppage, Halt, Termination",
+    "example": "Both sides agreed to a cessation of fighting."
+  },
+  {
+    "word": "Postulate",
+    "korean": "상정하다",
+    "english": "To assume or propose that something is true as a basis for reasoning",
+    "synonyms": "Assume, Hypothesize, Presuppose",
+    "example": "Scientists postulate that a large ocean once covered the region."
+  },
+  {
+    "word": "Catastrophic",
+    "korean": "대변동의, 큰 재앙의, 파멸의, 비극적인, 대단원의",
+    "english": "Causing great destruction or suffering, or relating to a tragic ending",
+    "synonyms": "Disastrous, Calamitous, Ruinous",
+    "example": "The earthquake had a catastrophic effect on the coastal towns."
+  },
+  {
+    "word": "Explicate",
+    "korean": "설명하다, 해설하다",
+    "english": "To explain or interpret something in detail",
+    "synonyms": "Explain, Interpret, Expound",
+    "example": "The teacher used diagrams to explicate the difficult theory."
+  },
+  {
+    "word": "Elucidate",
+    "korean": "(더 자세히) 설명하다",
+    "english": "To make something clear through explanation or analysis",
+    "synonyms": "Clarify, Explain, Illuminate",
+    "example": "The scientist used a simple model to elucidate the process."
+  },
+  {
+    "word": "Deliberation",
+    "korean": "숙고, 심의",
+    "english": "Careful thought or discussion before reaching a decision",
+    "synonyms": "Consideration, Reflection, Discussion",
+    "example": "After much deliberation, the committee approved the plan."
+  },
+  {
+    "word": "Conjecture",
+    "korean": "추측(한 내용)",
+    "english": "An opinion or conclusion based on incomplete evidence",
+    "synonyms": "Guess, Supposition, Speculation",
+    "example": "Without further evidence, the explanation remains a conjecture."
+  },
+  {
+    "word": "Inhibit",
+    "korean": "억제하다, 저해하다",
+    "english": "To restrain or hinder an action, process, or development",
+    "synonyms": "Restrain, Hinder, Impede",
+    "example": "A lack of sunlight can inhibit plant growth."
+  },
+  {
+    "word": "Seldom",
+    "korean": "좀처럼(거의) 않는",
+    "english": "Not often or only on rare occasions",
+    "synonyms": "Rarely, Infrequently, Hardly ever",
+    "example": "He seldom misses a day of school."
+  },
+  {
+    "word": "Constructive",
+    "korean": "건설적인",
+    "english": "Helpful in producing improvement or development",
+    "synonyms": "Helpful, Productive, Beneficial",
+    "example": "She offered constructive advice on my first draft."
+  },
+  {
+    "word": "Genuine",
+    "korean": "진짜의, 진품의",
+    "english": "Real and authentic rather than false or copied",
+    "synonyms": "Authentic, Real, True",
+    "example": "The museum confirmed that the painting was genuine."
+  },
+  {
+    "word": "Set forth",
+    "korean": "출발하다",
+    "english": "To begin a journey",
+    "synonyms": "Set out, Depart, Embark",
+    "example": "The travelers set forth before sunrise."
+  },
+  {
+    "word": "Term",
+    "korean": "칭하다",
+    "english": "To give someone or something a particular name or description",
+    "synonyms": "Call, Name, Label",
+    "example": "Scientists term this process natural selection."
+  },
+  {
+    "word": "Deemed",
+    "korean": "간주",
+    "english": "Considered or judged to be something",
+    "synonyms": "Considered, Regarded, Judged",
+    "example": "The bridge was deemed unsafe after the inspection."
+  },
+  {
+    "word": "Consented",
+    "korean": "동의하다, 허락하다",
+    "english": "Agreed to something or gave permission for it",
+    "synonyms": "Agreed, Assented, Acquiesced",
+    "example": "Her parents consented to the school trip."
+  },
+  {
+    "word": "Gospel",
+    "korean": "복음(서)",
+    "english": "The Christian message about Jesus, or a written account of his life and teachings",
+    "synonyms": "Good news, Evangel",
+    "example": "The church service included a reading from the Gospel of Luke."
+  },
+  {
+    "word": "Compelled to",
+    "korean": "강요하다, 강제하다",
+    "english": "Forced or obliged to do something",
+    "synonyms": "Forced to, Obliged to, Required to",
+    "example": "The residents were compelled to leave before the storm arrived."
+  },
+  {
+    "word": "Provincial",
+    "korean": "지방 사람, 지방 출신자",
+    "english": "A person who lives in or comes from a province rather than a major city",
+    "synonyms": "Person from the provinces",
+    "example": "The novel follows a young provincial who moves to the capital."
+  },
+  {
+    "word": "Mutuality",
+    "korean": "상호 관계, 상관",
+    "english": "A relationship in which feelings, actions, or benefits are shared or reciprocal",
+    "synonyms": "Reciprocity, Interdependence",
+    "example": "Their friendship was based on mutuality rather than one-sided support."
+  },
+  {
+    "word": "Garment",
+    "korean": "의복, 옷",
+    "english": "An individual item of clothing",
+    "synonyms": "Article of clothing, Item of dress",
+    "example": "Each garment was carefully folded and placed in a box."
+  },
+  {
+    "word": "Idly",
+    "korean": "하릴 없이, 한가하게, 아무일도 안하고",
+    "english": "Without working, taking action, or having a particular purpose",
+    "synonyms": "Aimlessly, Lazily, Inactively",
+    "example": "We sat idly by the river and watched the boats."
+  },
+  {
+    "word": "Deplore",
+    "korean": "(특히 공개적으로) 개탄하다",
+    "english": "To express strong regret or disapproval of something",
+    "synonyms": "Lament, Condemn, Bemoan",
+    "example": "We deplore the needless destruction of the forest."
+  },
+  {
+    "word": "Content",
+    "korean": "만족하는, 자족하는",
+    "english": "Satisfied with what one has or with the present situation",
+    "synonyms": "Satisfied, Contented, Pleased",
+    "example": "She felt content with her simple life in the village."
+  },
+  {
+    "word": "Brutality",
+    "korean": "잔인성, 야만성, 무자비",
+    "english": "Extreme cruelty or violent harshness",
+    "synonyms": "Cruelty, Savagery, Ruthlessness",
+    "example": "The witnesses described the brutality of the attack."
+  },
+  {
+    "word": "Prod",
+    "korean": "쿡 찌르다",
+    "english": "To poke or push someone or something with a finger or pointed object",
+    "synonyms": "Poke, Jab, Nudge",
+    "example": "Do not prod the sleeping dog with a stick."
+  },
+  {
+    "word": "Humiliating",
+    "korean": "굴욕적인, 면목없는",
+    "english": "Making someone feel ashamed or lose self-respect",
+    "synonyms": "Embarrassing, Degrading, Mortifying",
+    "example": "Losing the match so badly was a humiliating experience."
+  },
+  {
+    "word": "Run-off",
+    "korean": "2차 투표, 2차전, 보궐선거",
+    "english": "An additional election or contest held when an earlier one has no clear winner",
+    "synonyms": "Second ballot, Deciding contest",
+    "example": "Neither candidate won a majority, so a run-off was scheduled."
+  },
+  {
+    "word": "Stride",
+    "korean": "성큼성큼 걷다",
+    "english": "To walk with long, purposeful steps",
+    "synonyms": "Take long steps, March",
+    "example": "She likes to stride confidently across the stage."
+  },
+  {
+    "word": "Regrettable",
+    "korean": "유감스러운",
+    "english": "Unfortunate and deserving of regret",
+    "synonyms": "Unfortunate, Lamentable, Deplorable",
+    "example": "The cancellation of the concert was a regrettable mistake."
+  },
+  {
+    "word": "Condemned",
+    "korean": "비난받은, 유죄 선고를 받은, 사형수의",
+    "english": "Strongly disapproved of, or found guilty and sentenced to punishment, especially death",
+    "synonyms": "Denounced, Convicted, Sentenced",
+    "example": "The condemned prisoner was allowed one final visit from his family."
+  },
+  {
+    "word": "Assertion",
+    "korean": "주장, 행사",
+    "english": "A firm statement of belief, or the act of insisting on a right",
+    "synonyms": "Claim, Declaration, Insistence",
+    "example": "Her assertion of the right to speak was supported by the audience."
+  },
+  {
+    "word": "Never-ceasing",
+    "korean": "끝없는",
+    "english": "Continuing without stopping or coming to an end",
+    "synonyms": "Ceaseless, Unending, Incessant",
+    "example": "The never-ceasing noise from the road kept him awake."
+  },
+  {
+    "word": "Constitutional rights",
+    "korean": "헌법에 규정된 권리",
+    "english": "Rights and freedoms recognized or protected by a constitution",
+    "synonyms": "Constitutional freedoms, Constitutionally protected rights",
+    "example": "Citizens gathered peacefully to defend their constitutional rights."
+  },
+  {
+    "word": "Quest",
+    "korean": "탐구, 탐색",
+    "english": "A determined search for something",
+    "synonyms": "Search, Pursuit, Hunt",
+    "example": "The scientists continued their quest for a cleaner source of energy."
+  },
+  {
+    "word": "Misconception",
+    "korean": "오해",
+    "english": "An incorrect belief or understanding about something",
+    "synonyms": "Misunderstanding, Mistaken belief, False impression",
+    "example": "The lesson corrected a common misconception about volcanoes."
+  },
+  {
+    "word": "Repent",
+    "korean": "뉘우치다, 회개하다, 후회하다",
+    "english": "To feel sincere regret for wrongdoing and seek to change",
+    "synonyms": "Regret, Feel remorse, Be contrite",
+    "example": "He began to repent after seeing how much his lie had hurt his friend."
+  },
+  {
+    "word": "Pending",
+    "korean": "미결인, 미정인, 계류중인",
+    "english": "Not yet decided or settled, or still awaiting completion",
+    "synonyms": "Unresolved, Undecided, Unsettled",
+    "example": "The application is still pending because one document is missing."
+  },
+  {
+    "word": "Quicksand",
+    "korean": "유사, 헤어나기 힘든 상황",
+    "english": "Wet sand that gives way under weight, or a situation that traps someone",
+    "synonyms": "Sinking sand, Quagmire, Predicament",
+    "example": "The travelers carefully avoided the quicksand near the river."
+  },
+  {
+    "word": "Insensitive",
+    "korean": "둔감한, 몰이해한",
+    "english": "Unaware of or unconcerned about other people’s feelings or needs",
+    "synonyms": "Unfeeling, Inconsiderate, Unresponsive",
+    "example": "His insensitive remark upset a classmate who was already worried."
+  },
+  {
+    "word": "Bitterness",
+    "korean": "신랄함, 쓰라림, 비통, 비꼼",
+    "english": "Harshness of feeling or expression marked by pain, anger, or resentment",
+    "synonyms": "Resentment, Acrimony, Anguish",
+    "example": "There was bitterness in her voice when she described the betrayal."
+  },
+  {
+    "word": "Elegy",
+    "korean": "애가, 비가",
+    "english": "A poem or song expressing sorrow, especially for someone who has died",
+    "synonyms": "Lament, Dirge",
+    "example": "She wrote an elegy in memory of her grandfather."
+  },
+  {
+    "word": "Spring up",
+    "korean": "휙 나타나다, 갑자기 생겨나다",
+    "english": "To appear or develop suddenly",
+    "synonyms": "Arise, Emerge, Appear",
+    "example": "New shops seem to spring up in the neighborhood every month."
+  },
+  {
+    "word": "Incorrigible",
+    "korean": "고질적인, 구제 불능의",
+    "english": "Persisting in bad behavior or habits and unlikely to be corrected",
+    "synonyms": "Unreformable, Unmanageable, Inveterate",
+    "example": "The incorrigible prankster kept hiding his classmates’ pencils."
+  },
+  {
+    "word": "Emulate",
+    "korean": "모방하다, 따라가다",
+    "english": "To imitate someone or something in an effort to match or surpass them",
+    "synonyms": "Imitate, Match, Rival",
+    "example": "Young players often try to emulate the skills of their favorite athletes."
+  },
+  {
+    "word": "Pent-up",
+    "korean": "억눌린",
+    "english": "Held back inside and not expressed or released",
+    "synonyms": "Suppressed, Repressed, Restrained",
+    "example": "She released her pent-up frustration by going for a long run."
+  },
+  {
+    "word": "Latent",
+    "korean": "잠재하는, 잠복해 있는",
+    "english": "Present but not yet visible, active, or fully developed",
+    "synonyms": "Dormant, Hidden, Potential",
+    "example": "The art class helped him discover his latent talent for painting."
+  },
+  {
+    "word": "Pilgrimage",
+    "korean": "순례, 성지 참배",
+    "english": "A journey to a sacred place for religious reasons",
+    "synonyms": "Sacred journey, Religious journey",
+    "example": "The family made a pilgrimage to a historic temple."
+  },
+  {
+    "word": "Repressed",
+    "korean": "억압된, 억눌린",
+    "english": "Held under control or prevented from being expressed freely",
+    "synonyms": "Suppressed, Restrained, Subdued",
+    "example": "Years of repressed anger finally surfaced during the discussion."
+  },
+  {
+    "word": "Discontent",
+    "korean": "불만, 불만스러운",
+    "english": "Dissatisfaction with a situation, or unhappy about it",
+    "synonyms": "Dissatisfaction, Displeasure, Dissatisfied",
+    "example": "Discontent grew among students after the study room was closed."
+  },
+  {
+    "word": "Extremist",
+    "korean": "극단주의자, 과격주의자",
+    "english": "A person who supports extreme political, religious, or social views",
+    "synonyms": "Radical, Fanatic",
+    "example": "The extremist rejected every proposal for a peaceful compromise."
+  },
+  {
+    "word": "Measure",
+    "korean": "수단",
+    "english": "An action or method used to achieve a particular purpose",
+    "synonyms": "Means, Method, Step",
+    "example": "The new safety measure helped prevent accidents in the laboratory."
+  },
+  {
+    "word": "By-product",
+    "korean": "부산물",
+    "english": "Something produced in addition to the main product or result",
+    "synonyms": "Secondary product, Side effect, Incidental result",
+    "example": "Sawdust is a by-product of cutting wood."
+  },
+  {
+    "word": "Citing",
+    "korean": "(이유, 예를) 들다, 끌어내다",
+    "english": "Mentioning or quoting something as a reason, example, or supporting evidence",
+    "synonyms": "Quoting, Mentioning, Referring to",
+    "example": "The principal postponed the trip, citing the risk of heavy rain."
+  },
+  {
+    "word": "Prejudice",
+    "korean": "편견",
+    "english": "An unfair opinion formed without enough knowledge or evidence",
+    "synonyms": "Bias, Preconception, Bigotry",
+    "example": "The campaign encouraged people to challenge prejudice in their community."
+  },
+  {
+    "word": "Bogged down",
+    "korean": "교착 상태에 빠지다",
+    "english": "Unable to make progress because of difficulties or excessive detail",
+    "synonyms": "Stalled, Stuck, Mired",
+    "example": "The discussion became bogged down in minor details."
+  },
+  {
+    "word": "Oppose",
+    "korean": "반대하다",
+    "english": "To disagree with or act against something",
+    "synonyms": "Resist, Object to, Contest",
+    "example": "Many residents oppose the plan to remove the old trees."
+  },
+  {
+    "word": "Vicious",
+    "korean": "잔인한, 포악한, 악랄한",
+    "english": "Violent, cruel, or deliberately harmful",
+    "synonyms": "Cruel, Savage, Malicious",
+    "example": "The article condemned the vicious attack on an innocent person."
+  },
+  {
+    "word": "Airtight",
+    "korean": "밀폐된",
+    "english": "Sealed so that air cannot pass in or out",
+    "synonyms": "Hermetically sealed, Sealed, Airproof",
+    "example": "Keep the biscuits in an airtight container."
+  },
+  {
+    "word": "Affluent",
+    "korean": "부유한",
+    "english": "Having a great deal of money or material wealth",
+    "synonyms": "Wealthy, Rich, Prosperous",
+    "example": "The affluent couple donated money to the local library."
+  },
+  {
+    "word": "Stammering",
+    "korean": "말을 더듬는",
+    "english": "Speaking with involuntary pauses or repeated sounds",
+    "synonyms": "Stuttering, Halting",
+    "example": "The stammering student took a deep breath before continuing his speech."
+  },
+  {
+    "word": "Ominous",
+    "korean": "불길한",
+    "english": "Suggesting that something bad or threatening may happen",
+    "synonyms": "Threatening, Foreboding, Inauspicious",
+    "example": "An ominous silence fell over the room after the warning."
+  },
+  {
+    "word": "Unfettered",
+    "korean": "제한받지 않는, 규제가 없는",
+    "english": "Not controlled or restricted",
+    "synonyms": "Unrestricted, Unrestrained, Free",
+    "example": "The researcher was given unfettered access to the archives."
+  },
+  {
+    "word": "Gadflies",
+    "korean": "잔소리꾼",
+    "english": "People who annoy or provoke others through persistent criticism",
+    "synonyms": "Naggers, Persistent critics",
+    "example": "The committee’s gadflies kept questioning every small decision."
+  },
+  {
+    "word": "Stance",
+    "korean": "입장, 태도",
+    "english": "A person’s attitude or position on an issue",
+    "synonyms": "Position, Attitude, Viewpoint",
+    "example": "She explained her stance on protecting endangered species."
+  },
+  {
+    "word": "Outlawing",
+    "korean": "불법화하다, 금하다",
+    "english": "Making an activity illegal or officially prohibiting it",
+    "synonyms": "Banning, Prohibiting, Criminalizing",
+    "example": "The council is considering outlawing smoking in the park."
+  },
+  {
+    "word": "Paradoxical",
+    "korean": "역설의, 자기모순의",
+    "english": "Seemingly contradictory or contrary to what one would expect",
+    "synonyms": "Contradictory, Incongruous, Self-contradictory",
+    "example": "It seems paradoxical that more choices can make a decision harder."
+  },
+  {
+    "word": "Square with",
+    "korean": "~와 일치하다, 맞다",
+    "english": "To agree or be consistent with something",
+    "synonyms": "Agree with, Match, Correspond to",
+    "example": "His account does not square with the evidence."
+  },
+  {
+    "word": "Legitimate",
+    "korean": "합법적인, 적법한",
+    "english": "Allowed by law or consistent with established legal rules",
+    "synonyms": "Lawful, Legal, Licit",
+    "example": "The business operates under a legitimate license."
+  },
+  {
+    "word": "Nagging",
+    "korean": "잔소리하는, 불평하는",
+    "english": "Persistently criticizing, complaining, or finding fault",
+    "synonyms": "Fault-finding, Complaining, Carping",
+    "example": "The nagging neighbor complained every time the children played outside."
+  },
+  {
+    "word": "Estrangement",
+    "korean": "멀어짐, 소외",
+    "english": "A loss of closeness or friendly relations between people",
+    "synonyms": "Alienation, Separation, Detachment",
+    "example": "The argument led to a long period of estrangement between the brothers."
+  },
+  {
+    "word": "Bind on",
+    "korean": "묶다",
+    "english": "To fasten something onto a person or object by tying it",
+    "synonyms": "Tie on, Fasten on, Strap on",
+    "example": "Use a strip of clean cloth to bind on the bandage."
+  },
+  {
+    "word": "Constitute",
+    "korean": "을 구성하다, 이루다",
+    "english": "To form or make up something",
+    "synonyms": "Form, Compose, Make up",
+    "example": "These five chapters constitute the first part of the book."
+  },
+  {
+    "word": "Imprisonment",
+    "korean": "투옥, 구금, 금고",
+    "english": "The act of putting someone in prison or the state of being confined there",
+    "synonyms": "Incarceration, Confinement, Detention",
+    "example": "The judge sentenced him to two years of imprisonment."
+  },
+  {
+    "word": "Superbly",
+    "korean": "최고로, 최상으로",
+    "english": "In an excellent or outstanding manner",
+    "synonyms": "Excellently, Magnificently, Splendidly",
+    "example": "The orchestra performed superbly at the school concert."
+  },
+  {
+    "word": "Moderate",
+    "korean": "보통의, 중간의",
+    "english": "Of an average or middle degree, neither very great nor very small",
+    "synonyms": "Medium, Average, Middling",
+    "example": "The forecast predicts moderate temperatures throughout the week."
+  },
+  {
+    "word": "Horse-and-buggy",
+    "korean": "구식의, 낡은",
+    "english": "Old-fashioned",
+    "synonyms": "Outdated, Antiquated, Old-fashioned",
+    "example": "Their horse-and-buggy approach was no longer effective."
+  },
+  {
+    "word": "Yearning",
+    "korean": "갈망, 동경",
+    "english": "A feeling of intense longing for something",
+    "synonyms": "Longing, Craving, Desire",
+    "example": "She felt a deep yearning to return to her hometown."
+  },
+  {
+    "word": "Lynch",
+    "korean": "사형을 가하다",
+    "english": "To put someone to death by mob action without legal approval",
+    "synonyms": "Kill by mob action",
+    "example": "The authorities stopped the crowd before it could lynch the prisoner."
+  },
+  {
+    "word": "Groan",
+    "korean": "신음, 끙 하는 소리",
+    "english": "A deep sound made in response to pain, discomfort, or despair",
+    "synonyms": "Moan, Low cry",
+    "example": "He let out a groan as he tried to move his injured leg."
+  },
+  {
+    "word": "Determined action",
+    "korean": "단호한 행동",
+    "english": "Firm and resolute action taken to achieve a goal",
+    "synonyms": "Resolute action, Decisive action",
+    "example": "Determined action by the volunteers saved the historic building."
+  },
+  {
+    "word": "Grasped",
+    "korean": "꽉 잡다, 움켜잡다",
+    "english": "Seized and held something firmly",
+    "synonyms": "Seized, Clutched, Gripped",
+    "example": "She grasped the railing firmly as the boat rocked."
+  },
+  {
+    "word": "Eloquent",
+    "korean": "유창한",
+    "english": "Fluent or persuasive in speaking or writing",
+    "synonyms": "Articulate, Fluent, Persuasive",
+    "example": "The eloquent speaker explained the issue clearly to the audience."
+  },
+  {
+    "word": "Prophetic",
+    "korean": "예언의, 예언적인",
+    "english": "Accurately describing or predicting what will happen in the future",
+    "synonyms": "Predictive, Prescient, Foretelling",
+    "example": "Her warning about the flood proved prophetic."
+  },
+  {
+    "word": "Notable",
+    "korean": "주목할 만한, 눈에 띄는",
+    "english": "Worthy of attention or notice; remarkable",
+    "synonyms": "Noteworthy, Remarkable, Conspicuous",
+    "example": "The team made notable progress during the final week."
+  },
+  {
+    "word": "Sustain",
+    "korean": "유지하다",
+    "english": "To maintain, support, or keep something going",
+    "synonyms": "Maintain, Preserve, Keep up",
+    "example": "Regular practice will help sustain your progress."
+  },
+  {
+    "word": "Allies",
+    "korean": "동맹국, 협력자",
+    "english": "Countries, people, or groups cooperating for a shared purpose",
+    "synonyms": "Partners, Confederates, Supporters",
+    "example": "The two countries remained close allies throughout the crisis."
+  },
+  {
+    "word": "Grievance",
+    "korean": "불만",
+    "english": "A real or imagined wrong or cause for complaint or protest, especially unfair treatment",
+    "synonyms": "Complaint, Grudge, Cause for complaint",
+    "example": "Her main grievance was that the rules were applied unfairly."
+  },
+  {
+    "word": "Bruised",
+    "korean": "멍든, 타박상(상처)을 입은",
+    "english": "Having a bruise or bruises",
+    "synonyms": "Contused, Battered",
+    "example": "His bruised knee was still sore after the fall."
+  },
+  {
+    "word": "Confined",
+    "korean": "좁고 사방이 막힌",
+    "english": "Restricted in area or volume; cramped",
+    "synonyms": "Cramped, Enclosed, Restricted",
+    "example": "Working in such a confined space made the repairs difficult."
+  },
+  {
+    "word": "Agitator",
+    "korean": "(정치) 운동가, 선동가",
+    "english": "A person who urges others to protest or rebel",
+    "synonyms": "Instigator, Inciter, Rabble-rouser",
+    "example": "The agitator urged the workers to protest against unfair treatment."
+  },
+  {
+    "word": "Gainsaying",
+    "korean": "부정하다, 반대하다",
+    "english": "Denying or contradicting a statement or claim",
+    "synonyms": "Denying, Contradicting, Disputing",
+    "example": "There is no gainsaying the importance of clean drinking water."
+  },
+  {
+    "word": "Ordeal",
+    "korean": "(힘들거나 불쾌한) 시련",
+    "english": "A painful or difficult experience, especially one lasting a long time",
+    "synonyms": "Trial, Tribulation, Hardship",
+    "example": "Waiting all night for news of her brother was a terrible ordeal."
+  },
+  {
+    "word": "Mayoralty",
+    "korean": "시장직",
+    "english": "The office or position of a mayor",
+    "synonyms": "Mayor's office, Office of mayor",
+    "example": "She ran for the mayoralty on a promise to improve public transport."
+  },
+  {
+    "word": "Cloud",
+    "korean": "흐리다",
+    "english": "To make or become less clear or transparent",
+    "synonyms": "Blur, Obscure, Dim",
+    "example": "Steam can cloud the bathroom mirror."
+  },
+  {
+    "word": "Tiptoe",
+    "korean": "발끝으로 살금살금 걷다",
+    "english": "To walk quietly on the tips of one's toes",
+    "synonyms": "Creep, Sneak",
+    "example": "We had to tiptoe past the room where the baby was sleeping."
+  },
+  {
+    "word": "Sit-ins",
+    "korean": "농성, 연좌데모",
+    "english": "Protests in which demonstrators occupy a place and refuse to leave",
+    "synonyms": "Sit-down protests, Occupation protests",
+    "example": "Students organized peaceful sit-ins to demand equal treatment."
+  },
+  {
+    "word": "Marches",
+    "korean": "가두 행진, 가두 시위",
+    "english": "Organized processions or demonstrations involving groups of people walking together",
+    "synonyms": "Processions, Protest parades",
+    "example": "Peaceful marches took place in several cities that weekend."
+  },
+  {
+    "word": "Unmindful",
+    "korean": "신경 쓰지 않는, 인식하지 못하는",
+    "english": "Unaware of something or not paying attention to it",
+    "synonyms": "Unaware, Oblivious, Inattentive",
+    "example": "He crossed the field, unmindful of the gathering clouds."
+  },
+  {
+    "word": "Reiterate",
+    "korean": "반복하다, 되풀이하여 말하다",
+    "english": "To state something again, especially for emphasis",
+    "synonyms": "Repeat, Restate, Reaffirm",
+    "example": "The teacher paused to reiterate the instructions."
+  },
+  {
+    "word": "Catapulted",
+    "korean": "갑자기 내던져진, 급격히 어떤 상태에 놓인",
+    "english": "Thrown suddenly or moved rapidly into a new position or situation",
+    "synonyms": "Hurled, Propelled, Launched",
+    "example": "The successful film catapulted the young actor to fame."
+  },
+  {
+    "word": "Outright",
+    "korean": "노골적인, 명백한, 완전히",
+    "english": "Open and unmistakable; complete; completely",
+    "synonyms": "Blatant, Absolute, Completely",
+    "example": "The accusation was an outright lie."
+  },
+  {
+    "word": "Admonish",
+    "korean": "꾸짖다, 책망하다, 충고하다",
+    "english": "To reprimand someone or give a serious warning or advice",
+    "synonyms": "Reprimand, Warn, Counsel",
+    "example": "The coach had to admonish the players for ignoring the rules."
+  },
+  {
+    "word": "Anesthetizing",
+    "korean": "마취하는, 감각을 무디게 하는",
+    "english": "Making a person or part of the body unable to feel pain, or dulling awareness",
+    "synonyms": "Numbing, Desensitizing",
+    "example": "The dentist was anesthetizing the area before treating the tooth."
+  },
+  {
+    "word": "Integration",
+    "korean": "통합, 인종 통합",
+    "english": "The combination of parts into a whole, or the ending of racial separation",
+    "synonyms": "Unification, Incorporation, Desegregation",
+    "example": "School integration allowed children of different races to learn together."
+  },
+  {
+    "word": "Pious",
+    "korean": "경건한, 독실한",
+    "english": "Showing deep religious faith and devotion",
+    "synonyms": "Devout, Religious, Reverent",
+    "example": "Her pious grandfather prayed quietly every morning."
+  },
+  {
+    "word": "Blatant",
+    "korean": "노골적인, 뻔한",
+    "english": "Very obvious and openly offensive or improper",
+    "synonyms": "Flagrant, Brazen, Obvious",
+    "example": "The referee noticed the blatant violation of the rules."
+  },
+  {
+    "word": "Crisp",
+    "korean": "바삭바삭한, 상쾌한, 선명한",
+    "english": "Firm and crunchy; fresh and cool; sharply clear",
+    "synonyms": "Crunchy, Brisk, Sharp",
+    "example": "The crisp morning air made the walk especially pleasant."
+  },
+  {
+    "word": "Interposition",
+    "korean": "개입, 중재, 사이에 끼어듦",
+    "english": "The act of coming or placing something between others, including intervention or mediation",
+    "synonyms": "Intervention, Mediation, Insertion",
+    "example": "The interposition of a mediator helped resolve the dispute."
+  },
+  {
+    "word": "Inflict",
+    "korean": "고통이나 피해를 가하다",
+    "english": "To cause someone to suffer pain, damage, or another unpleasant experience",
+    "synonyms": "Impose, Cause, Deal",
+    "example": "Careless remarks can inflict lasting emotional pain."
+  },
+  {
+    "word": "Sweltering",
+    "korean": "몹시 더운, 찌는 듯한",
+    "english": "Extremely and uncomfortably hot",
+    "synonyms": "Stifling, Scorching, Oppressively hot",
+    "example": "We rested in the shade during the sweltering afternoon."
+  },
+  {
+    "word": "Lofty",
+    "korean": "아주 높은, 우뚝한, 고상한",
+    "english": "Very high or tall; noble in character or ideals",
+    "synonyms": "Towering, Elevated, Noble",
+    "example": "The climbers looked up at the lofty mountain peaks."
+  },
+  {
+    "word": "Heavenward",
+    "korean": "하늘을 향해, 천국을 향해",
+    "english": "Toward the sky or heaven",
+    "synonyms": "Skyward, Upward",
+    "example": "The children watched the balloons float heavenward."
+  },
+  {
+    "word": "Spires",
+    "korean": "첨탑들",
+    "english": "Tall, narrow, pointed structures rising from the tops of buildings",
+    "synonyms": "Steeples, Pinnacles",
+    "example": "The church spires were visible above the rooftops."
+  },
+  {
+    "word": "Nullification",
+    "korean": "무효화, 취소, 파기",
+    "english": "The act of making something invalid or without effect",
+    "synonyms": "Invalidation, Annulment, Cancellation",
+    "example": "The court ordered the nullification of the unlawful agreement."
+  },
+  {
+    "word": "Clarion",
+    "korean": "낭랑한, 크고 명확한",
+    "english": "Loud, clear, and ringing",
+    "synonyms": "Resounding, Ringing, Clear",
+    "example": "Her speech was a clarion call for equal treatment."
+  },
+  {
+    "word": "Thermostat",
+    "korean": "온도 조절 장치",
+    "english": "A device that automatically controls temperature",
+    "synonyms": "Temperature controller",
+    "example": "The thermostat keeps the classroom at a comfortable temperature."
+  },
+  {
+    "word": "Blemish",
+    "korean": "흠, 결점, 피부의 잡티",
+    "english": "A mark or flaw that spoils appearance or quality",
+    "synonyms": "Flaw, Imperfection, Spot",
+    "example": "A small blemish on the vase reduced its value."
+  },
+  {
+    "word": "Scarred",
+    "korean": "흉터가 있는, 마음에 상처를 입은",
+    "english": "Marked by healed wounds or lasting emotional damage",
+    "synonyms": "Disfigured, Traumatized",
+    "example": "The accident left him emotionally scarred for years."
+  },
+  {
+    "word": "Status quo",
+    "korean": "현재의 상황, 현상",
+    "english": "The existing state of affairs",
+    "synonyms": "Existing situation, Current state, Present conditions",
+    "example": "The students wanted to challenge the status quo at their school."
+  },
+  {
+    "word": "Consoled",
+    "korean": "위로한, 위로받은",
+    "english": "Gave or received comfort during grief or disappointment",
+    "synonyms": "Comforted, Soothed, Reassured",
+    "example": "She consoled her friend after the disappointing result."
+  },
+  {
+    "word": "Scorn",
+    "korean": "경멸, 멸시",
+    "english": "Strong contempt or disrespect for someone or something",
+    "synonyms": "Contempt, Disdain, Derision",
+    "example": "He treated the dishonest proposal with scorn."
+  },
+  {
+    "word": "Injustice",
+    "korean": "불의, 부당함",
+    "english": "Unfair treatment or a lack of justice",
+    "synonyms": "Unfairness, Inequity, Wrong",
+    "example": "The students spoke out against injustice in their community."
+  },
+  {
+    "word": "Inhumane",
+    "korean": "비인도적인, 잔혹한",
+    "english": "Cruel and lacking compassion for suffering",
+    "synonyms": "Cruel, Merciless, Brutal",
+    "example": "The report exposed the inhumane treatment of the prisoners."
+  },
+  {
+    "word": "Provocation",
+    "korean": "도발, 자극, 화나게 하는 행동",
+    "english": "An act or stimulus that arouses anger or another strong response",
+    "synonyms": "Incitement, Stimulation, Goading",
+    "example": "She remained calm despite his repeated provocation."
+  },
+  {
+    "word": "Commend",
+    "korean": "칭찬하다, 높이 평가하다",
+    "english": "To praise someone or something as worthy of approval",
+    "synonyms": "Praise, Applaud, Compliment",
+    "example": "The principal will commend the students for their courage."
+  },
+  {
+    "word": "Agonize",
+    "korean": "고민하다, 고뇌하다",
+    "english": "To suffer great mental distress or worry intensely about something",
+    "synonyms": "Worry, Torment oneself, Struggle",
+    "example": "Try not to agonize over every small mistake."
+  },
+  {
+    "word": "Profundity",
+    "korean": "깊이, 심오함",
+    "english": "Great depth of thought, feeling, or meaning",
+    "synonyms": "Depth, Deep insight",
+    "example": "The profundity of the poem became clear after a second reading."
+  },
+  {
+    "word": "Founding Fathers",
+    "korean": "미국 건국의 아버지들, 건국 주역들",
+    "english": "The leading figures who helped establish the United States",
+    "synonyms": "Founders of the United States",
+    "example": "We studied the debates among the Founding Fathers in history class."
+  },
+  {
+    "word": "Scintillating",
+    "korean": "재기 넘치는, 아주 재밌는, 반짝이는",
+    "english": "Brilliantly lively or witty; sparkling with light",
+    "synonyms": "Sparkling, Witty, Brilliant",
+    "example": "Her scintillating conversation kept everyone at the table entertained."
+  },
+  {
+    "word": "Battered",
+    "korean": "두들겨 맞은, 낡고 손상된",
+    "english": "Injured by repeated blows or damaged through heavy use",
+    "synonyms": "Beaten, Damaged, Worn",
+    "example": "He carried his books in a battered old suitcase."
+  },
+  {
+    "word": "Segregated",
+    "korean": "분리된, 격리된, 인종별로 분리된",
+    "english": "Separated from others, especially according to race",
+    "synonyms": "Separated, Isolated, Racially divided",
+    "example": "The museum exhibit described life in segregated schools."
+  },
+  {
+    "word": "Conscience",
+    "korean": "양심",
+    "english": "The inner sense of whether one’s actions are right or wrong",
+    "synonyms": "Moral sense, Sense of right and wrong",
+    "example": "Her conscience would not let her keep the money she had found."
+  },
+  {
+    "word": "Assure",
+    "korean": "장담하다, 확언하다, 안심시키다",
+    "english": "To tell someone confidently that something is true or give them reassurance",
+    "synonyms": "Reassure, Promise, Affirm",
+    "example": "I assure you that your application will receive careful attention."
+  },
+  {
+    "word": "Conduct",
+    "korean": "수행하다, 진행하다",
+    "english": "To carry out or manage an activity or process",
+    "synonyms": "Carry out, Perform, Manage",
+    "example": "The students will conduct an experiment on plant growth."
+  },
+  {
+    "word": "Agonizing",
+    "korean": "몹시 고통스러운",
+    "english": "Causing extreme physical or mental pain",
+    "synonyms": "Excruciating, Torturous, Painful",
+    "example": "The family faced an agonizing wait for news from the hospital."
+  },
+  {
+    "word": "Treason",
+    "korean": "반역죄",
+    "english": "The crime of betraying one’s country, especially by helping its enemies or trying to overthrow its government",
+    "synonyms": "Betrayal of one’s country",
+    "example": "The official was charged with treason for aiding the enemy."
+  },
+  {
+    "word": "Jeering",
+    "korean": "야유하는, 조롱하는",
+    "english": "Mocking or insulting someone in a loud and unkind way",
+    "synonyms": "Mocking, Taunting, Derisive",
+    "example": "The jeering crowd made it difficult for the speaker to continue."
+  },
+  {
+    "word": "Vitality",
+    "korean": "활력, 생명력",
+    "english": "Energy, liveliness, and the power to live or grow",
+    "synonyms": "Vigor, Liveliness, Energy",
+    "example": "The children’s vitality brought new energy to the quiet house."
+  },
+  {
+    "word": "More",
+    "korean": "더 많은, 더, 더욱",
+    "english": "A greater amount or number; to a greater degree",
+    "synonyms": "Additional, Further, To a greater extent",
+    "example": "We need more time to finish the project."
+  },
+  {
+    "word": "Shattered",
+    "korean": "산산이 부서진, 큰 충격을 받은",
+    "english": "Broken into many pieces or deeply shocked and upset",
+    "synonyms": "Smashed, Broken, Devastated",
+    "example": "She was shattered by the sudden loss of her closest friend."
+  },
+  {
+    "word": "Cognizant",
+    "korean": "알고 있는, 인식하고 있는",
+    "english": "Aware of or knowledgeable about something",
+    "synonyms": "Aware, Conscious, Mindful",
+    "example": "We must remain cognizant of the risks involved."
+  },
+  {
+    "word": "Moratorium",
+    "korean": "일시 중단, 유예",
+    "english": "A temporary suspension of an activity or postponement of an obligation",
+    "synonyms": "Suspension, Postponement, Pause",
+    "example": "The city announced a moratorium on new construction near the wetland."
+  },
+  {
+    "word": "Abyss",
+    "korean": "심연, 깊은 구렁",
+    "english": "An extremely deep or seemingly bottomless gap or space",
+    "synonyms": "Chasm, Gulf, Deep pit",
+    "example": "The climbers looked down into the dark abyss."
+  },
+  {
+    "word": "Tandem",
+    "korean": "2인용 자전거, 함께, 협력하여",
+    "english": "A bicycle for two riders; one behind another or working together",
+    "synonyms": "Two-seater bicycle, Together, Cooperatively",
+    "example": "They rented a tandem to explore the island together."
+  },
+  {
+    "word": "Babbling",
+    "korean": "재잘거리는, 졸졸 흐르는",
+    "english": "Talking rapidly or indistinctly; making a gentle, continuous sound as flowing water",
+    "synonyms": "Chattering, Prattling, Burbling",
+    "example": "We rested beside a babbling brook."
+  },
+  {
+    "word": "Footage",
+    "korean": "영상, 촬영 장면",
+    "english": "Recorded film or video material",
+    "synonyms": "Film, Video, Recorded images",
+    "example": "The reporter reviewed footage of the storm before the broadcast."
+  },
+  {
+    "word": "Mimicking",
+    "korean": "흉내 내는, 모방하는",
+    "english": "Copying someone’s speech, behavior, or appearance closely",
+    "synonyms": "Imitating, Copying, Aping",
+    "example": "The child was mimicking the teacher’s gestures."
+  },
+  {
+    "word": "Simultaneously",
+    "korean": "동시에",
+    "english": "At the same time",
+    "synonyms": "Concurrently, At once, Together",
+    "example": "The two teams began their experiments simultaneously."
+  },
+  {
+    "word": "Cognition",
+    "korean": "인지, 인식",
+    "english": "The mental processes involved in knowing, thinking, and understanding",
+    "synonyms": "Understanding, Awareness, Knowing",
+    "example": "The study examined how sleep affects cognition."
+  },
+  {
+    "word": "Garrulous",
+    "korean": "수다스러운, 말이 많은",
+    "english": "Talking a great deal, often about unimportant matters",
+    "synonyms": "Talkative, Loquacious, Chatty",
+    "example": "The garrulous passenger talked throughout the entire journey."
+  },
+  {
+    "word": "Synchronized",
+    "korean": "동시에 움직이는, 동기화된",
+    "english": "Coordinated to happen or move at the same time",
+    "synonyms": "Coordinated, Aligned, Simultaneous",
+    "example": "The dancers’ synchronized movements impressed the audience."
+  },
+  {
+    "word": "Affordably",
+    "korean": "부담없는 가격으로, 알맞은 가격에",
+    "english": "At a price that people can reasonably pay",
+    "synonyms": "Inexpensively, Economically, Reasonably",
+    "example": "The school shop sells supplies affordably."
+  },
+  {
+    "word": "Detained",
+    "korean": "구금된, 억류된, 지체된",
+    "english": "Kept in custody or held back and delayed",
+    "synonyms": "Held, Confined, Delayed",
+    "example": "The travelers were detained at the border while their documents were checked."
+  },
+  {
+    "word": "Miserable",
+    "korean": "비참한, 몹시 불행한",
+    "english": "Extremely unhappy or in a wretched condition",
+    "synonyms": "Wretched, Unhappy, Dejected",
+    "example": "He felt miserable after arguing with his best friend."
+  },
+  {
+    "word": "Limping",
+    "korean": "절뚝거리는",
+    "english": "Walking unevenly because of pain or an injured leg or foot",
+    "synonyms": "Hobbling, Walking unevenly",
+    "example": "The limping dog was taken to the veterinarian."
+  },
+  {
+    "word": "Aborted",
+    "korean": "중단된, 무산된, 임신이 종결된",
+    "english": "Stopped before completion or left unsuccessful; having a pregnancy ended before birth",
+    "synonyms": "Cancelled, Terminated, Discontinued",
+    "example": "The mission was aborted because of severe weather."
+  },
+  {
+    "word": "Flailing",
+    "korean": "팔다리를 마구 흔드는",
+    "english": "Swinging or waving the arms or legs wildly",
+    "synonyms": "Thrashing, Waving wildly",
+    "example": "The swimmer’s flailing arms caught the lifeguard’s attention."
+  },
+  {
+    "word": "By the same token",
+    "korean": "같은 이유로, 마찬가지로",
+    "english": "For the same reason or by the same reasoning",
+    "synonyms": "For the same reason, Likewise, Similarly",
+    "example": "We respect their choices; by the same token, they should respect ours."
+  },
+  {
+    "word": "Stake",
+    "korean": "말뚝",
+    "english": "A pointed wooden or metal post driven into the ground as a support or marker",
+    "synonyms": "Post, Peg",
+    "example": "She tied the young tree to a wooden stake."
+  },
+  {
+    "word": "Paternalistic",
+    "korean": "가부장적인, 보호를 명분으로 간섭하는",
+    "english": "Controlling others' choices on the assumption that this protects their welfare",
+    "synonyms": "Overprotective, Patronizing",
+    "example": "The manager's paternalistic rules gave employees little freedom."
+  },
+  {
+    "word": "Unswerving",
+    "korean": "(강도가) 약해지지 않는, 변함없는",
+    "english": "Remaining steady and firm without weakening or changing",
+    "synonyms": "Steadfast, Unfaltering, Unwavering",
+    "example": "Her unswerving support helped the team through difficult times."
+  },
+  {
+    "word": "Butchery",
+    "korean": "살생, 학살",
+    "english": "The cruel and indiscriminate killing of people",
+    "synonyms": "Slaughter, Massacre, Carnage",
+    "example": "The memorial honors civilians who died in the butchery of war."
+  },
+  {
+    "word": "Languished",
+    "korean": "약화되다, (진전이) 시들해지다",
+    "english": "Became weak or failed to make progress",
+    "synonyms": "Weakened, Withered, Stagnated",
+    "example": "The proposal languished for months without support."
+  },
+  {
+    "word": "Bosom",
+    "korean": "(여자의) 가슴",
+    "english": "A woman's chest or breasts",
+    "synonyms": "Bust, Breasts",
+    "example": "The dress fitted closely around her bosom."
+  },
+  {
+    "word": "Defiance",
+    "korean": "반항, 저항",
+    "english": "Open resistance to authority or refusal to obey",
+    "synonyms": "Resistance, Rebellion, Disobedience",
+    "example": "Their refusal to leave was an act of defiance."
+  },
+  {
+    "word": "Archdefender",
+    "korean": "수호자",
+    "english": "A leading or especially determined protector or supporter",
+    "synonyms": "Chief protector, Leading advocate",
+    "example": "He became an archdefender of the town's historic buildings."
+  },
+  {
+    "word": "Inextricably",
+    "korean": "불가분하게",
+    "english": "In a way that cannot be separated or disentangled",
+    "synonyms": "Inseparably, Indissolubly",
+    "example": "The village's history is inextricably linked to the sea."
+  },
+  {
+    "word": "Paralyzing",
+    "korean": "무력하게 만들다, 무능하게 만들다",
+    "english": "Making someone unable to act or something unable to function effectively",
+    "synonyms": "Disabling, Immobilizing, Incapacitating",
+    "example": "Fear was paralyzing her ability to make a decision."
+  },
+  {
+    "word": "Decisive",
+    "korean": "결정적인",
+    "english": "Determining the final result of an event or situation",
+    "synonyms": "Crucial, Pivotal, Conclusive",
+    "example": "Her testimony played a decisive role in the trial."
+  },
+  {
+    "word": "Etched",
+    "korean": "뚜렷이 새기다",
+    "english": "Marked or impressed something clearly and deeply",
+    "synonyms": "Engraved, Imprinted, Inscribed",
+    "example": "The experience etched a lasting memory in his mind."
+  },
+  {
+    "word": "Degenerating",
+    "korean": "악화되다",
+    "english": "Becoming worse in quality or condition",
+    "synonyms": "Deteriorating, Worsening, Declining",
+    "example": "The discussion was degenerating into an angry argument."
+  },
+  {
+    "word": "Existential",
+    "korean": "존재에 관한, 존재에 관련된",
+    "english": "Concerning existence or the nature of human existence",
+    "synonyms": "Existence-related",
+    "example": "The novel explores existential questions about the purpose of life."
+  },
+  {
+    "word": "Substantive",
+    "korean": "실질적인",
+    "english": "Real and meaningful rather than merely formal or superficial",
+    "synonyms": "Substantial, Meaningful, Material",
+    "example": "The new policy brought substantive improvements to working conditions."
+  },
+  {
+    "word": "Beheld",
+    "korean": "(바라)보다",
+    "english": "Saw or looked at something, especially with attention",
+    "synonyms": "Saw, Observed, Viewed",
+    "example": "From the hill, we beheld the valley below."
+  },
+  {
+    "word": "Mores",
+    "korean": "풍습, 관습",
+    "english": "The accepted customs and standards of behavior of a community",
+    "synonyms": "Customs, Conventions, Traditions",
+    "example": "The story reflects the social mores of its time."
+  },
+  {
+    "word": "Sanction",
+    "korean": "허가, 승인, 인가",
+    "english": "Official permission or approval for an action",
+    "synonyms": "Approval, Authorization, Permission",
+    "example": "The project received official sanction from the council."
+  },
+  {
+    "word": "Devising",
+    "korean": "창안하다, 고안하다",
+    "english": "Creating or planning something through thought and imagination",
+    "synonyms": "Inventing, Formulating, Designing",
+    "example": "The students are devising a way to reduce plastic waste."
+  },
+  {
+    "word": "Sanctimonious",
+    "korean": "독실한 척하는, 신성한 체하는",
+    "english": "Pretending to be more religious or morally virtuous than others",
+    "synonyms": "Self-righteous, Holier-than-thou, Hypocritically pious",
+    "example": "His sanctimonious speech annoyed the people who knew his behavior."
+  },
+  {
+    "word": "Infanticide",
+    "korean": "유아 살해, 영아 살해",
+    "english": "The deliberate killing of an infant",
+    "synonyms": "Infant killing",
+    "example": "The history class discussed laws intended to prevent infanticide."
+  }
+]

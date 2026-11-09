@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "Euphoric",
+    "korean": "의기양양한, 행복감에 찬",
+    "english": "extremely happy or excited",
+    "synonyms": "Elated, Ecstatic, Jubilant"
+  },
+  {
+    "word": "Battery",
+    "korean": "전력을 공급하는 장치, 배터리, 폭행, 구타",
+    "english": "a device that supplies electrical power; unlawful physical assault",
+    "synonyms": "Power cell, Assault, Beating"
+  },
+  {
+    "word": "Garish",
+    "korean": "야하고 촌스러운",
+    "english": "excessively bright, showy, or tasteless",
+    "synonyms": "Gaudy, Flashy, Tasteless"
+  },
+  {
+    "word": "Acumen",
+    "korean": "날카로운 통찰력",
+    "english": "keen insight and good judgment",
+    "synonyms": "Insight, Discernment, Shrewdness"
+  },
+  {
+    "word": "Zenith",
+    "korean": "가장 높은 지점, 절정",
+    "english": "the highest point or peak",
+    "synonyms": "Peak, Apex, Summit"
+  },
+  {
+    "word": "Semaphore",
+    "korean": "시각 신호",
+    "english": "a system of visual signaling",
+    "synonyms": "Visual signal, Flag signaling"
+  },
+  {
+    "word": "Balk",
+    "korean": "갑자기 멈추다, 가로막다",
+    "english": "to stop suddenly or refuse to proceed; to hinder",
+    "synonyms": "Halt, Hesitate, Obstruct"
+  },
+  {
+    "word": "Regurgitate",
+    "korean": "토하다, 그대로 되풀이하다",
+    "english": "to bring swallowed material back up; to repeat information without thought",
+    "synonyms": "Vomit, Bring up, Parrot"
+  },
+  {
+    "word": "Cursory",
+    "korean": "피상적일 만큼 간단한",
+    "english": "quick and not thorough",
+    "synonyms": "Superficial, Hasty, Perfunctory"
+  },
+  {
+    "word": "Dissemble",
+    "korean": "숨기다, 가장하다",
+    "english": "to conceal one's true motives, feelings, or beliefs",
+    "synonyms": "Conceal, Feign, Disguise"
+  },
+  {
+    "word": "Denigrate",
+    "korean": "깎아내리다, 평판을 낮추다",
+    "english": "to criticize unfairly or damage someone's reputation",
+    "synonyms": "Disparage, Belittle, Malign"
+  },
+  {
+    "word": "Commensurate",
+    "korean": "크기나 양이 상응하는",
+    "english": "corresponding in size, degree, or proportion",
+    "synonyms": "Proportionate, Corresponding, Equivalent"
+  },
+  {
+    "word": "Inundate",
+    "korean": "풍부하게 밀려들게 하다, 넘치게 하다",
+    "english": "to overwhelm with a large amount; to flood",
+    "synonyms": "Flood, Overwhelm, Deluge"
+  },
+  {
+    "word": "Inveterate",
+    "korean": "습관으로 굳어진, 상습적인",
+    "english": "long-established and habitual",
+    "synonyms": "Habitual, Chronic, Entrenched"
+  },
+  {
+    "word": "Perfidious",
+    "korean": "불충한, 배신하는",
+    "english": "disloyal and untrustworthy",
+    "synonyms": "Treacherous, Disloyal, Faithless"
+  },
+  {
+    "word": "Ascribe",
+    "korean": "~의 탓이나 공으로 돌리다, 귀속시키다",
+    "english": "to attribute something to a particular cause or source",
+    "synonyms": "Attribute, Credit, Impute"
+  },
+  {
+    "word": "Phlegmatic",
+    "korean": "무관심한, 반응이 둔한",
+    "english": "calm and not easily excited or upset",
+    "synonyms": "Impassive, Unemotional, Unexcitable"
+  },
+  {
+    "word": "Fortitude",
+    "korean": "용기, 강인함",
+    "english": "courage and strength in facing difficulty",
+    "synonyms": "Courage, Resilience, Grit"
+  },
+  {
+    "word": "Agriculture",
+    "korean": "농업",
+    "english": "the practice of farming and raising crops or animals",
+    "synonyms": "Farming, Husbandry, Cultivation"
+  },
+  {
+    "word": "Cordial",
+    "korean": "따뜻한, 다정한",
+    "english": "warm, friendly, and sincere",
+    "synonyms": "Warm, Friendly, Affectionate"
+  },
+  {
+    "word": "Consolation",
+    "korean": "위로하는 행위나 위안",
+    "english": "comfort received after disappointment or loss",
+    "synonyms": "Comfort, Solace, Reassurance"
+  },
+  {
+    "word": "Didactic",
+    "korean": "가르치려는, 지나치게 교훈적인",
+    "english": "intended to teach, sometimes too obviously or morally",
+    "synonyms": "Instructive, Pedagogic, Preachy"
+  },
+  {
+    "word": "Defunct",
+    "korean": "더 이상 쓰이지 않거나 존재하지 않는",
+    "english": "no longer existing, operating, or in use",
+    "synonyms": "Extinct, Inactive, Obsolete"
+  },
+  {
+    "word": "Concede",
+    "korean": "타당하다고 인정하다, 양보하다",
+    "english": "to admit something is true; to yield or surrender",
+    "synonyms": "Admit, Acknowledge, Yield"
+  },
+  {
+    "word": "Disparate",
+    "korean": "뚜렷이 다른, 대조적인 요소를 지닌",
+    "english": "essentially different or distinct",
+    "synonyms": "Different, Dissimilar, Divergent"
+  },
+  {
+    "word": "Allocate",
+    "korean": "배분하다, 따로 떼어 두다",
+    "english": "to distribute or set aside for a purpose",
+    "synonyms": "Allot, Assign, Apportion"
+  },
+  {
+    "word": "Feral",
+    "korean": "야생의, 사나운",
+    "english": "wild and untamed, especially after escaping domestication",
+    "synonyms": "Wild, Untamed, Savage"
+  },
+  {
+    "word": "Pulchritude",
+    "korean": "육체적 아름다움",
+    "english": "physical beauty",
+    "synonyms": "Beauty, Loveliness, Attractiveness"
+  },
+  {
+    "word": "Canvas",
+    "korean": "화가가 그림을 그리는 천, 캔버스, 덮다, 조사하다",
+    "english": "a strong cloth used for painting; to cover or examine systematically",
+    "synonyms": "Painting cloth, Cover"
+  },
+  {
+    "word": "Anarchist",
+    "korean": "모든 정부의 폐지를 원하는 사람",
+    "english": "a person who opposes all forms of government authority",
+    "synonyms": "Anti-authoritarian, Anarchic revolutionary"
+  },
+  {
+    "word": "Anesthesia",
+    "korean": "감각의 상실, 마취",
+    "english": "loss of sensation, especially induced for surgery",
+    "synonyms": "Numbness, Insensibility, Loss of sensation"
+  },
+  {
+    "word": "Prosaic",
+    "korean": "평범한, 생동감이 없는",
+    "english": "ordinary, dull, or lacking imagination",
+    "synonyms": "Dull, Commonplace, Mundane"
+  },
+  {
+    "word": "Allege",
+    "korean": "대개 증거 없이 주장하다",
+    "english": "to claim something without proving it",
+    "synonyms": "Claim, Assert, Maintain"
+  },
+  {
+    "word": "Desiccated",
+    "korean": "말라 버린, 탈수된",
+    "english": "thoroughly dried out",
+    "synonyms": "Dried, Dehydrated, Parched"
+  },
+  {
+    "word": "Obstinate",
+    "korean": "쉽게 양보하지 않는, 고집 센",
+    "english": "stubbornly refusing to change one's opinion or course",
+    "synonyms": "Stubborn, Headstrong, Unyielding"
+  },
+  {
+    "word": "Implicit",
+    "korean": "겉으로 분명하지 않지만 이해되는, 암시된",
+    "english": "implied or understood without being directly stated",
+    "synonyms": "Implied, Unspoken, Tacit"
+  },
+  {
+    "word": "Goad",
+    "korean": "재촉하다, 자극하다, 행동하게 부추기다",
+    "english": "to provoke or urge someone into action",
+    "synonyms": "Prod, Spur, Provoke"
+  },
+  {
+    "word": "Annul",
+    "korean": "무효로 만들다",
+    "english": "to declare legally invalid or cancel",
+    "synonyms": "Invalidate, Cancel, Nullify"
+  },
+  {
+    "word": "Aesthetic",
+    "korean": "예술적인, 미의 감상과 관련된",
+    "english": "relating to beauty, art, or artistic taste",
+    "synonyms": "Artistic, Visual, Beauty-related"
+  },
+  {
+    "word": "Modulate",
+    "korean": "특히 음악에서 한 상태에서 다른 상태로 바꾸다",
+    "english": "to adjust or vary a tone, signal, or condition",
+    "synonyms": "Adjust, Vary, Regulate"
+  },
+  {
+    "word": "Archaic",
+    "korean": "이전 시대의, 구식의",
+    "english": "very old-fashioned or from an earlier period",
+    "synonyms": "Ancient, Antiquated, Outdated"
+  },
+  {
+    "word": "Vindictive",
+    "korean": "복수심에 찬",
+    "english": "having a strong desire for revenge",
+    "synonyms": "Vengeful, Revengeful, Retaliatory"
+  },
+  {
+    "word": "Equivocal",
+    "korean": "모호한, 불확실한, 결정되지 않은",
+    "english": "ambiguous, uncertain, or open to more than one meaning",
+    "synonyms": "Ambiguous, Uncertain, Inconclusive"
+  },
+  {
+    "word": "Consensus",
+    "korean": "의견의 합의",
+    "english": "general agreement among a group",
+    "synonyms": "Agreement, Accord, Unanimity"
+  },
+  {
+    "word": "Myriad",
+    "korean": "매우 많은 수로 이루어진",
+    "english": "countless or extremely numerous",
+    "synonyms": "Countless, Innumerable, Numerous"
+  },
+  {
+    "word": "Ingenious",
+    "korean": "영리한, 재치 있는",
+    "english": "clever, original, and inventive",
+    "synonyms": "Inventive, Clever, Resourceful"
+  },
+  {
+    "word": "Defamatory",
+    "korean": "남의 평판을 해치는",
+    "english": "damaging to someone's reputation through false statements",
+    "synonyms": "Slanderous, Libelous, Calumnious"
+  },
+  {
+    "word": "Rectitude",
+    "korean": "정직함, 극도의 도덕성",
+    "english": "morally correct behavior; integrity",
+    "synonyms": "Integrity, Righteousness, Probity"
+  },
+  {
+    "word": "Insinuate",
+    "korean": "간접적이고 은근히 암시하다",
+    "english": "to suggest indirectly or subtly",
+    "synonyms": "Hint, Imply, Suggest"
+  },
+  {
+    "word": "Credulity",
+    "korean": "쉽게 믿는 성향",
+    "english": "a tendency to believe things too readily",
+    "synonyms": "Gullibility, Naivety, Trustfulness"
+  },
+  {
+    "word": "Profligate",
+    "korean": "방탕한, 낭비하는",
+    "english": "recklessly wasteful or morally self-indulgent",
+    "synonyms": "Wasteful, Extravagant, Dissolute"
+  },
+  {
+    "word": "Genial",
+    "korean": "친절한, 상냥한",
+    "english": "friendly, cheerful, and pleasant",
+    "synonyms": "Amiable, Affable, Cordial"
+  },
+  {
+    "word": "Irreverence",
+    "korean": "불경, 무례",
+    "english": "lack of proper respect, especially for something sacred",
+    "synonyms": "Disrespect, Impiety, Insolence"
+  },
+  {
+    "word": "Assuage",
+    "korean": "완화하다, 달래다",
+    "english": "to make an unpleasant feeling less intense",
+    "synonyms": "Alleviate, Soothe, Ease"
+  },
+  {
+    "word": "Renown",
+    "korean": "명예, 명성",
+    "english": "widespread fame or high reputation",
+    "synonyms": "Fame, Prestige, Distinction"
+  },
+  {
+    "word": "Renovate",
+    "korean": "복원하다, 원래 상태로 되돌리다, 특히 집을 확장하고 더 보기 좋게 고치다",
+    "english": "to restore or improve, especially a building",
+    "synonyms": "Restore, Refurbish, Remodel"
+  },
+  {
+    "word": "Clamor",
+    "korean": "큰 소음, 아우성, 시끄럽게 요구하다",
+    "english": "a loud noise or outcry; to demand loudly",
+    "synonyms": "Din, Outcry, Demand"
+  },
+  {
+    "word": "Coerce",
+    "korean": "힘이나 위협으로 강요하다",
+    "english": "to force someone by pressure or threats",
+    "synonyms": "Compel, Force, Intimidate"
+  },
+  {
+    "word": "Desecrate",
+    "korean": "신성함을 훼손하다",
+    "english": "to violate the sacred character of something",
+    "synonyms": "Profane, Defile, Violate"
+  },
+  {
+    "word": "Inoculate",
+    "korean": "면역을 높이려고 미생물, 혈청, 백신을 주입하다, 예방접종하다",
+    "english": "to introduce a vaccine or other substance to produce immunity",
+    "synonyms": "Vaccinate, Immunize"
+  },
+  {
+    "word": "Oblique",
+    "korean": "직선이나 바른 경로에서 벗어난, 솔직하지 않은",
+    "english": "slanting or indirect; not straightforward",
+    "synonyms": "Slanting, Indirect, Evasive"
+  },
+  {
+    "word": "Oblivious",
+    "korean": "의식이나 인식이 없는",
+    "english": "unaware or not conscious of what is happening",
+    "synonyms": "Unaware, Unconscious, Unmindful"
+  },
+  {
+    "word": "Innocuous",
+    "korean": "해가 없는, 불쾌감을 주지 않는",
+    "english": "harmless and not offensive",
+    "synonyms": "Harmless, Inoffensive, Benign"
+  },
+  {
+    "word": "Tome",
+    "korean": "큰 책",
+    "english": "a large, heavy, or scholarly book",
+    "synonyms": "Volume, Large book"
+  },
+  {
+    "word": "Wistful",
+    "korean": "그리움이 가득한, 생각에 잠겨 슬픈",
+    "english": "sadly thoughtful, often with longing",
+    "synonyms": "Yearning, Nostalgic, Pensive"
+  },
+  {
+    "word": "Acerbic",
+    "korean": "말투나 맛이 날카롭고 신랄한",
+    "english": "sharp, bitter, or cutting in taste or speech",
+    "synonyms": "Caustic, Sharp, Tart"
+  },
+  {
+    "word": "Pretense",
+    "korean": "속이려는 외양이나 행동",
+    "english": "a false appearance or claim intended to deceive",
+    "synonyms": "Sham, Façade, Deception"
+  },
+  {
+    "word": "Attribute",
+    "korean": "공로를 돌리다, 귀속시키다, 특성, 속성",
+    "english": "to regard as caused by; a quality or characteristic",
+    "synonyms": "Ascribe, Credit, Characteristic"
+  },
+  {
+    "word": "Dearth",
+    "korean": "부족, 결핍",
+    "english": "a scarcity or lack of something",
+    "synonyms": "Shortage, Scarcity, Lack"
+  },
+  {
+    "word": "Obdurate",
+    "korean": "설득이나 도덕적 영향에 굴하지 않는",
+    "english": "stubbornly refusing to change despite persuasion",
+    "synonyms": "Stubborn, Unyielding, Intransigent"
+  },
+  {
+    "word": "Appease",
+    "korean": "진정시키다, 만족시키다",
+    "english": "to calm, satisfy, or make less angry",
+    "synonyms": "Placate, Pacify, Satisfy"
+  },
+  {
+    "word": "Ennui",
+    "korean": "권태, 싫증",
+    "english": "boredom and dissatisfaction from lack of interest",
+    "synonyms": "Boredom, Listlessness, Tedium"
+  },
+  {
+    "word": "Propagate",
+    "korean": "번식하다, 퍼뜨리다",
+    "english": "to reproduce, spread, or promote",
+    "synonyms": "Spread, Disseminate, Reproduce"
+  },
+  {
+    "word": "Collateral",
+    "korean": "부차적인, 담보",
+    "english": "secondary or additional; property pledged as security",
+    "synonyms": "Secondary, Ancillary, Security"
+  },
+  {
+    "word": "Anxiety",
+    "korean": "강한 불안",
+    "english": "strong worry, nervousness, or unease",
+    "synonyms": "Worry, Apprehension, Unease"
+  },
+  {
+    "word": "Decorous",
+    "korean": "사회적으로 예의 바른, 적절한",
+    "english": "proper, polite, and socially acceptable",
+    "synonyms": "Proper, Polite, Well-mannered"
+  },
+  {
+    "word": "Paradox",
+    "korean": "겉으로 모순되지만 사실일 수 있는 진술",
+    "english": "a seemingly contradictory statement that may still be true",
+    "synonyms": "Apparent contradiction, Seeming inconsistency"
+  },
+  {
+    "word": "Linchpin",
+    "korean": "따로 있는 부분들을 함께 붙잡는 핵심 요소",
+    "english": "a person or thing essential to holding something together",
+    "synonyms": "Keystone, Cornerstone, Mainstay"
+  },
+  {
+    "word": "Elegy",
+    "korean": "고인을 기리는 연설이나 애도문",
+    "english": "a poem or speech mourning someone who has died",
+    "synonyms": "Lament, Mourning poem, Tribute"
+  },
+  {
+    "word": "Consign",
+    "korean": "다른 사람의 관리에 넘기다",
+    "english": "to hand over or entrust to another's care",
+    "synonyms": "Entrust, Deliver, Hand over"
+  },
+  {
+    "word": "Benevolent",
+    "korean": "선의가 있는, 선행을 베푸는",
+    "english": "kind, generous, and well-meaning",
+    "synonyms": "Kind, Charitable, Generous"
+  },
+  {
+    "word": "Apathetic",
+    "korean": "관심이나 감정이 없는",
+    "english": "showing little interest, enthusiasm, or emotion",
+    "synonyms": "Indifferent, Uninterested, Unresponsive"
+  },
+  {
+    "word": "Ameliorate",
+    "korean": "개선하다",
+    "english": "to make something better or less severe",
+    "synonyms": "Improve, Better, Alleviate"
+  },
+  {
+    "word": "Irascible",
+    "korean": "쉽게 화내는",
+    "english": "easily angered or irritated",
+    "synonyms": "Irritable, Short-tempered, Testy"
+  },
+  {
+    "word": "Sobriety",
+    "korean": "절제, 차분함",
+    "english": "seriousness and self-control; freedom from intoxication",
+    "synonyms": "Restraint, Seriousness, Temperance"
+  },
+  {
+    "word": "Dubious",
+    "korean": "의심스러운, 질이 불확실한",
+    "english": "doubtful, uncertain, or suspicious",
+    "synonyms": "Doubtful, Questionable, Suspect"
+  },
+  {
+    "word": "Reproach",
+    "korean": "꾸짖다, 못마땅해하다",
+    "english": "to criticize or express disapproval toward",
+    "synonyms": "Rebuke, Reprimand, Criticize"
+  },
+  {
+    "word": "Aggrandize",
+    "korean": "키우다, 확대하다, 과장해 높이다",
+    "english": "to increase in power, status, or importance",
+    "synonyms": "Enlarge, Elevate, Exaggerate"
+  },
+  {
+    "word": "Audacious",
+    "korean": "지나치게 대담한",
+    "english": "bold and daring, often excessively so",
+    "synonyms": "Bold, Daring, Brazen"
+  },
+  {
+    "word": "Bilk",
+    "korean": "속여 빼앗다, 사취하다",
+    "english": "to cheat or defraud someone of money",
+    "synonyms": "Defraud, Swindle, Cheat"
+  },
+  {
+    "word": "Camaraderie",
+    "korean": "동료애, 유쾌한 결속감",
+    "english": "mutual friendship and trust within a group",
+    "synonyms": "Fellowship, Comradeship, Solidarity"
+  },
+  {
+    "word": "Disheartened",
+    "korean": "의욕이나 사기가 꺾인",
+    "english": "having lost confidence, hope, or enthusiasm",
+    "synonyms": "Discouraged, Dejected, Dispirited"
+  },
+  {
+    "word": "Arbitrary",
+    "korean": "임의적인, 뚜렷한 근거가 없어 보이는",
+    "english": "based on personal choice rather than reason or rule",
+    "synonyms": "Capricious, Random, Unreasoned"
+  },
+  {
+    "word": "Turgid",
+    "korean": "부풀어 오른, 문체나 말이 지나치게 장식적인",
+    "english": "swollen; excessively ornate or pompous in style",
+    "synonyms": "Swollen, Inflated, Pompous"
+  },
+  {
+    "word": "Atypical",
+    "korean": "전형적이지 않은, 특이한",
+    "english": "not typical or usual",
+    "synonyms": "Unusual, Uncharacteristic, Exceptional"
+  },
+  {
+    "word": "Avenge",
+    "korean": "복수하다",
+    "english": "to punish someone for a wrong done to another",
+    "synonyms": "Retaliate, Exact revenge"
+  },
+  {
+    "word": "Criteria",
+    "korean": "판단 기준들",
+    "english": "standards used for judging or deciding",
+    "synonyms": "Standards, Benchmarks, Yardsticks"
+  },
+  {
+    "word": "Cognizant",
+    "korean": "알고 있는, 인식하는",
+    "english": "aware or informed about something",
+    "synonyms": "Aware, Conscious, Informed"
+  },
+  {
+    "word": "Astute",
+    "korean": "매우 영리한, 눈치 빠른",
+    "english": "clever and perceptive, especially in practical matters",
+    "synonyms": "Shrewd, Perceptive, Sharp"
+  },
+  {
+    "word": "Profuse",
+    "korean": "풍부한, 많은",
+    "english": "abundant or produced in large amounts",
+    "synonyms": "Abundant, Plentiful, Copious"
+  },
+  {
+    "word": "Winsome",
+    "korean": "매력적인, 기분 좋은",
+    "english": "pleasant, charming, and attractive",
+    "synonyms": "Charming, Appealing, Engaging"
+  },
+  {
+    "word": "Convene",
+    "korean": "소집하다",
+    "english": "to bring people together for a meeting",
+    "synonyms": "Summon, Assemble, Gather"
+  },
+  {
+    "word": "Rash",
+    "korean": "성급한, 경솔한",
+    "english": "acting without enough thought; reckless",
+    "synonyms": "Reckless, Hasty, Impulsive"
+  },
+  {
+    "word": "Intimation",
+    "korean": "간접적인 암시",
+    "english": "an indirect hint or suggestion",
+    "synonyms": "Hint, Suggestion, Indication"
+  },
+  {
+    "word": "Solicitous",
+    "korean": "염려하는, 세심히 챙기는",
+    "english": "showing concern, care, or attention",
+    "synonyms": "Attentive, Concerned, Caring"
+  },
+  {
+    "word": "Impassive",
+    "korean": "감정이 드러나지 않는, 고통에 흔들리지 않는",
+    "english": "showing no emotion or reaction",
+    "synonyms": "Expressionless, Stoic, Unemotional"
+  },
+  {
+    "word": "Amicable",
+    "korean": "우호적인, 원만한",
+    "english": "friendly and free from conflict",
+    "synonyms": "Friendly, Cordial, Harmonious"
+  },
+  {
+    "word": "Captivate",
+    "korean": "주의를 사로잡다, 매혹하다",
+    "english": "to attract and hold someone's attention completely",
+    "synonyms": "Enthrall, Enchant, Fascinate"
+  },
+  {
+    "word": "Revoke",
+    "korean": "취소하다, 철회하다",
+    "english": "to officially cancel or withdraw",
+    "synonyms": "Rescind, Cancel, Withdraw"
+  },
+  {
+    "word": "Ardor",
+    "korean": "강한 활력, 열정",
+    "english": "strong enthusiasm, passion, or intensity",
+    "synonyms": "Passion, Fervor, Enthusiasm"
+  },
+  {
+    "word": "Capacious",
+    "korean": "매우 널찍한",
+    "english": "having a lot of space; roomy",
+    "synonyms": "Roomy, Spacious, Commodious"
+  },
+  {
+    "word": "Pacific",
+    "korean": "진정시키는, 평화로운",
+    "english": "peaceful or intended to make peace",
+    "synonyms": "Peaceful, Peaceable, Conciliatory"
+  },
+  {
+    "word": "Beguile",
+    "korean": "속이다, 기만하다",
+    "english": "to charm or deceive someone",
+    "synonyms": "Deceive, Hoodwink, Dupe"
+  },
+  {
+    "word": "Fetid",
+    "korean": "악취가 나는",
+    "english": "having a strong, unpleasant smell",
+    "synonyms": "Foul, Malodorous, Stinking"
+  },
+  {
+    "word": "Repudiate",
+    "korean": "거부하다, 받아들이지 않다",
+    "english": "to reject or refuse to accept",
+    "synonyms": "Reject, Disown, Disavow"
+  },
+  {
+    "word": "Indigent",
+    "korean": "매우 가난한",
+    "english": "very poor and lacking basic resources",
+    "synonyms": "Destitute, Impoverished, Needy"
+  },
+  {
+    "word": "Circumlocution",
+    "korean": "돌려 말하는 장황한 표현",
+    "english": "an indirect and unnecessarily wordy way of speaking",
+    "synonyms": "Wordiness, Roundabout speech, Periphrasis"
+  },
+  {
+    "word": "Subjugate",
+    "korean": "지배 아래 두다, 복종시키다",
+    "english": "to bring under domination or control",
+    "synonyms": "Conquer, Subdue, Dominate"
+  },
+  {
+    "word": "Neophyte",
+    "korean": "어리거나 경험이 부족한 사람, 초보자",
+    "english": "a beginner or person new to a field",
+    "synonyms": "Beginner, Novice, Newcomer"
+  },
+  {
+    "word": "Officious",
+    "korean": "원하지도 필요하지도 않은 도움을 나서서 제공하는",
+    "english": "intrusively eager to offer unwanted help or advice",
+    "synonyms": "Meddlesome, Intrusive, Interfering"
+  },
+  {
+    "word": "Incessant",
+    "korean": "끊임없는",
+    "english": "continuing without interruption",
+    "synonyms": "Ceaseless, Continual, Unremitting"
+  },
+  {
+    "word": "Stingy",
+    "korean": "인색한, 쓰거나 주려 하지 않는",
+    "english": "unwilling to spend, give, or share",
+    "synonyms": "Miserly, Parsimonious, Tightfisted"
+  },
+  {
+    "word": "Meager",
+    "korean": "크기나 질이 부족한",
+    "english": "small or inadequate in amount or quality",
+    "synonyms": "Scanty, Sparse, Inadequate"
+  },
+  {
+    "word": "Inquisitor",
+    "korean": "특히 적대적으로 캐묻는 사람",
+    "english": "a person who questions others harshly or persistently",
+    "synonyms": "Interrogator, Questioner, Examiner"
+  },
+  {
+    "word": "Remedial",
+    "korean": "기초 지식의 빈틈을 보완하기 위한",
+    "english": "intended to correct a weakness or improve basic skills",
+    "synonyms": "Corrective, Compensatory, Restorative"
+  },
+  {
+    "word": "Mawkish",
+    "korean": "역겨울 만큼 감상적인",
+    "english": "overly sentimental in a sickening way",
+    "synonyms": "Maudlin, Cloying, Sentimental"
+  },
+  {
+    "word": "Vex",
+    "korean": "혼란스럽게 하거나 짜증나게 하다",
+    "english": "to annoy, worry, or confuse",
+    "synonyms": "Annoy, Irritate, Perplex"
+  },
+  {
+    "word": "Consecrate",
+    "korean": "신성한 목적에 바치다",
+    "english": "to dedicate to a sacred purpose",
+    "synonyms": "Sanctify, Dedicate, Hallow"
+  },
+  {
+    "word": "Acute",
+    "korean": "날카로운, 심한, 통찰력이 예리한",
+    "english": "sharp or severe; highly perceptive",
+    "synonyms": "Sharp, Severe, Perceptive"
+  },
+  {
+    "word": "Gratuitous",
+    "korean": "불필요한, 정당한 이유가 없는",
+    "english": "unnecessary or lacking a valid reason",
+    "synonyms": "Unnecessary, Unwarranted, Uncalled-for"
+  },
+  {
+    "word": "Ascertain",
+    "korean": "알아내다, 확인하다",
+    "english": "to find out or determine with certainty",
+    "synonyms": "Determine, Establish, Verify"
+  },
+  {
+    "word": "Reconcile",
+    "korean": "다시 조화롭게 하다, 기존 생각과 일치시키다",
+    "english": "to restore harmony; to make ideas or facts consistent",
+    "synonyms": "Harmonize, Reunite, Square"
+  },
+  {
+    "word": "Fortuitous",
+    "korean": "우연히 일어난, 뜻밖에 행운인",
+    "english": "happening by chance, often with a fortunate result",
+    "synonyms": "Accidental, Chance, Fortunate"
+  },
+  {
+    "word": "Abort",
+    "korean": "중도에 포기하다, 중단하다",
+    "english": "to stop something before completion",
+    "synonyms": "Terminate, Discontinue, Abandon"
+  },
+  {
+    "word": "Espouse",
+    "korean": "명분으로 받아들여 지지하다",
+    "english": "to adopt, support, or advocate a cause",
+    "synonyms": "Adopt, Champion, Endorse"
+  },
+  {
+    "word": "Sinuous",
+    "korean": "유연하고 구불구불한",
+    "english": "having many curves and turns; winding",
+    "synonyms": "Winding, Serpentine, Curving"
+  },
+  {
+    "word": "Abide",
+    "korean": "참다, 견디다, 남아 있다, 지속되다",
+    "english": "to tolerate or endure; to remain or continue",
+    "synonyms": "Tolerate, Endure, Remain"
+  },
+  {
+    "word": "Congenial",
+    "korean": "기분 좋게 잘 맞는",
+    "english": "pleasant and well suited to one's tastes or nature",
+    "synonyms": "Compatible, Agreeable, Pleasant"
+  },
+  {
+    "word": "Venerable",
+    "korean": "나이나 성취 때문에 존경받을 만한",
+    "english": "deserving respect because of age, character, or achievements",
+    "synonyms": "Respected, Revered, Esteemed"
+  },
+  {
+    "word": "Dissent",
+    "korean": "동의하지 않다, 반대, 이견",
+    "english": "to disagree; a difference of opinion",
+    "synonyms": "Disagree, Object, Opposition"
+  },
+  {
+    "word": "Vicissitude",
+    "korean": "우연히 일어나는 변화나 사건",
+    "english": "an unexpected change in circumstances or fortune",
+    "synonyms": "Change, Fluctuation, Reversal"
+  },
+  {
+    "word": "Banal",
+    "korean": "따분한, 진부한",
+    "english": "boring because it is common or unoriginal",
+    "synonyms": "Trite, Commonplace, Hackneyed"
+  },
+  {
+    "word": "Inane",
+    "korean": "어리석고 무의미한",
+    "english": "silly, pointless, or lacking meaning",
+    "synonyms": "Silly, Senseless, Foolish"
+  },
+  {
+    "word": "Hiatus",
+    "korean": "기간이나 연속성의 끊김, 공백",
+    "english": "a pause, gap, or interruption in continuity",
+    "synonyms": "Gap, Break, Interruption"
+  },
+  {
+    "word": "Prudence",
+    "korean": "신중함",
+    "english": "careful and sensible judgment",
+    "synonyms": "Caution, Discretion, Foresight"
+  },
+  {
+    "word": "Quaint",
+    "korean": "매력적으로 예스러운",
+    "english": "attractively old-fashioned or unusual",
+    "synonyms": "Picturesque, Charming, Old-fashioned"
+  },
+  {
+    "word": "Pillage",
+    "korean": "특히 전쟁에서 약탈하다",
+    "english": "to rob or loot, especially during war",
+    "synonyms": "Plunder, Loot, Ransack"
+  },
+  {
+    "word": "Placate",
+    "korean": "화를 누그러뜨리다, 달래다",
+    "english": "to calm or satisfy an angry person",
+    "synonyms": "Appease, Pacify, Mollify"
+  },
+  {
+    "word": "Abase",
+    "korean": "굴욕을 주다, 비하하다",
+    "english": "to lower in rank, dignity, or esteem",
+    "synonyms": "Humiliate, Degrade, Debase"
+  },
+  {
+    "word": "Emulate",
+    "korean": "모방하다, 따라 하다",
+    "english": "to imitate in an effort to equal or surpass",
+    "synonyms": "Imitate, Copy, Match"
+  },
+  {
+    "word": "Inextricable",
+    "korean": "절망적으로 얽힌, 풀 수 없는",
+    "english": "impossible to separate, untangle, or escape from",
+    "synonyms": "Inseparable, Entangled, Inescapable"
+  },
+  {
+    "word": "Punctilious",
+    "korean": "규칙이나 관례를 철저히 따르려는",
+    "english": "very careful about rules, details, and proper behavior",
+    "synonyms": "Meticulous, Exact, Scrupulous"
+  },
+  {
+    "word": "Connive",
+    "korean": "음모를 꾸미다",
+    "english": "to secretly cooperate in wrongdoing or plot",
+    "synonyms": "Conspire, Scheme, Plot"
+  },
+  {
+    "word": "Colloquial",
+    "korean": "일상 대화체의",
+    "english": "used in ordinary informal conversation",
+    "synonyms": "Conversational, Informal, Everyday"
+  },
+  {
+    "word": "Abridge",
+    "korean": "줄이다, 축약하다, 축약된",
+    "english": "to shorten without losing the main meaning; shortened",
+    "synonyms": "Shorten, Condense, Abbreviate"
+  },
+  {
+    "word": "Cherish",
+    "korean": "아끼다, 애정을 보이다",
+    "english": "to value deeply and treat with affection",
+    "synonyms": "Treasure, Value, Adore"
+  },
+  {
+    "word": "Adulation",
+    "korean": "지나친 칭찬, 아첨에 가까운 찬양",
+    "english": "excessive praise or flattery",
+    "synonyms": "Flattery, Worship, Excessive praise"
+  },
+  {
+    "word": "Congregation",
+    "korean": "특히 종교 예배를 위한 사람들의 모임",
+    "english": "a group gathered for worship or another common purpose",
+    "synonyms": "Assembly, Gathering, Worshippers"
+  },
+  {
+    "word": "Confidant",
+    "korean": "비밀을 맡길 수 있는 사람",
+    "english": "a trusted person to whom private matters are disclosed",
+    "synonyms": "Trusted friend, Intimate, Adviser"
+  },
+  {
+    "word": "Tenable",
+    "korean": "방어하거나 유지할 수 있는",
+    "english": "capable of being defended, maintained, or justified",
+    "synonyms": "Defensible, Sustainable, Justifiable"
+  },
+  {
+    "word": "Resolute",
+    "korean": "굳은, 결연한",
+    "english": "firmly determined and unwavering",
+    "synonyms": "Determined, Steadfast, Unwavering"
+  },
+  {
+    "word": "Congruity",
+    "korean": "서로 잘 맞는 성질, 일치",
+    "english": "agreement, consistency, or suitability between things",
+    "synonyms": "Compatibility, Harmony, Consistency"
+  },
+  {
+    "word": "Cobbler",
+    "korean": "구두를 만들거나 고치는 사람",
+    "english": "a person who makes or repairs shoes",
+    "synonyms": "Shoemaker, Shoe repairer"
+  },
+  {
+    "word": "Infamy",
+    "korean": "악명, 극도의 불명예",
+    "english": "a state of being well known for something bad",
+    "synonyms": "Notoriety, Disgrace, Dishonor"
+  },
+  {
+    "word": "Trenchant",
+    "korean": "효과적이고 명료하며 날카로운",
+    "english": "clear, effective, and sharply expressed",
+    "synonyms": "Incisive, Penetrating, Sharp"
+  },
+  {
+    "word": "Deride",
+    "korean": "조롱하다, 비웃다",
+    "english": "to mock or ridicule",
+    "synonyms": "Mock, Ridicule, Taunt"
+  },
+  {
+    "word": "Staid",
+    "korean": "차분하고 진지하며 절제된",
+    "english": "serious, calm, and restrained",
+    "synonyms": "Sedate, Sober, Serious"
+  },
+  {
+    "word": "Auspicious",
+    "korean": "길한, 좋은 일이 일어날 조짐의",
+    "english": "promising success or good fortune",
+    "synonyms": "Promising, Favorable, Propitious"
+  },
+  {
+    "word": "Utopia",
+    "korean": "완벽한 상상의 먼 장소",
+    "english": "an imagined perfect society or place",
+    "synonyms": "Paradise, Ideal society"
+  },
+  {
+    "word": "Assess",
+    "korean": "평가하다",
+    "english": "to evaluate or estimate",
+    "synonyms": "Evaluate, Appraise, Estimate"
+  },
+  {
+    "word": "Archetypal",
+    "korean": "가장 대표적이거나 전형적인",
+    "english": "serving as a perfect or typical example",
+    "synonyms": "Quintessential, Prototypical, Representative"
+  },
+  {
+    "word": "Eloquent",
+    "korean": "표현력이 풍부한, 감동적인",
+    "english": "fluent, persuasive, and expressive in speech or writing",
+    "synonyms": "Expressive, Articulate, Persuasive"
+  },
+  {
+    "word": "Undulate",
+    "korean": "물결치듯 움직이다",
+    "english": "to move in smooth wave-like motions",
+    "synonyms": "Ripple, Wave, Billow"
+  },
+  {
+    "word": "Surmise",
+    "korean": "적은 증거로 추론하다",
+    "english": "to infer or guess from limited evidence",
+    "synonyms": "Infer, Conjecture, Guess"
+  },
+  {
+    "word": "Venerate",
+    "korean": "존경하다, 공경하다",
+    "english": "to regard with deep respect or reverence",
+    "synonyms": "Revere, Honor, Respect"
+  },
+  {
+    "word": "Swarthy",
+    "korean": "피부색이나 안색이 어두운",
+    "english": "having a dark complexion",
+    "synonyms": "Dark-complexioned, Dusky"
+  },
+  {
+    "word": "Epistolary",
+    "korean": "편지와 관련된, 편지에 담긴",
+    "english": "relating to or written in the form of letters",
+    "synonyms": "Letter-based, Correspondence-related"
+  },
+  {
+    "word": "Cacophony",
+    "korean": "시끄럽고 불협화음인 소리",
+    "english": "a harsh mixture of unpleasant sounds",
+    "synonyms": "Din, Discord, Clamor"
+  },
+  {
+    "word": "Innate",
+    "korean": "타고난, 고유한",
+    "english": "inborn or naturally present",
+    "synonyms": "Inborn, Inherent, Natural"
+  },
+  {
+    "word": "Emend",
+    "korean": "글을 고치거나 수정하다",
+    "english": "to correct or revise a text",
+    "synonyms": "Correct, Revise, Amend"
+  },
+  {
+    "word": "Intrepid",
+    "korean": "위험 앞에서 용감한",
+    "english": "fearless and brave in difficult situations",
+    "synonyms": "Fearless, Dauntless, Brave"
+  },
+  {
+    "word": "Perfunctory",
+    "korean": "관심이나 열의가 거의 없는, 형식적인",
+    "english": "done with little interest, care, or effort",
+    "synonyms": "Cursory, Mechanical, Routine"
+  },
+  {
+    "word": "Admonish",
+    "korean": "주의를 주다, 꾸짖다, 훈계하다",
+    "english": "to warn, advise, or scold firmly",
+    "synonyms": "Warn, Reprimand, Counsel"
+  },
+  {
+    "word": "Disavow",
+    "korean": "알고 있거나 책임이 있음을 부인하다",
+    "english": "to deny responsibility for or connection with",
+    "synonyms": "Deny, Disclaim, Repudiate"
+  },
+  {
+    "word": "Beseech",
+    "korean": "간청하다, 애원하다",
+    "english": "to ask urgently and earnestly",
+    "synonyms": "Implore, Plead, Entreat"
+  },
+  {
+    "word": "Torpid",
+    "korean": "무기력하고 잠잠하며 움직임이 없는",
+    "english": "inactive, sluggish, or lacking energy",
+    "synonyms": "Sluggish, Dormant, Inactive"
+  },
+  {
+    "word": "Vivacious",
+    "korean": "활기찬, 생기 있는",
+    "english": "lively, energetic, and attractive",
+    "synonyms": "Lively, Spirited, Animated"
+  },
+  {
+    "word": "Pert",
+    "korean": "건방지고 대담한",
+    "english": "bold, lively, and sometimes disrespectful",
+    "synonyms": "Impudent, Cheeky, Saucy"
+  },
+  {
+    "word": "Vicarious",
+    "korean": "다른 사람을 통해 경험하는",
+    "english": "experienced through another person rather than directly",
+    "synonyms": "Indirect, Secondhand, Surrogate"
+  },
+  {
+    "word": "Diaphanous",
+    "korean": "가볍고 공기 같은, 투명한",
+    "english": "very light, delicate, and nearly transparent",
+    "synonyms": "Sheer, Translucent, Gauzy"
+  },
+  {
+    "word": "Taciturn",
+    "korean": "말하기를 좋아하지 않는, 과묵한",
+    "english": "habitually quiet and unwilling to talk much",
+    "synonyms": "Reticent, Reserved, Uncommunicative"
+  },
+  {
+    "word": "Impeccable",
+    "korean": "모범적인, 흠 없는",
+    "english": "flawless and free from fault",
+    "synonyms": "Faultless, Flawless, Exemplary"
+  },
+  {
+    "word": "Burnish",
+    "korean": "닦아 빛내다",
+    "english": "to polish until shiny; to improve or enhance",
+    "synonyms": "Polish, Buff, Shine"
+  },
+  {
+    "word": "Consummate",
+    "korean": "거래를 완결하다, 결혼을 성관계로 완성하다",
+    "english": "to complete or bring to a perfect finish; to complete a marriage sexually",
+    "synonyms": "Complete, Finalize, Fulfill"
+  },
+  {
+    "word": "Carouse",
+    "korean": "흥청거리며 즐기다",
+    "english": "to drink and celebrate noisily",
+    "synonyms": "Revel, Party, Make merry"
+  },
+  {
+    "word": "Efficacious",
+    "korean": "효과적인",
+    "english": "effective in producing the intended result",
+    "synonyms": "Effective, Successful, Potent"
+  },
+  {
+    "word": "Predilection",
+    "korean": "어떤 것에 대한 선호나 성향",
+    "english": "a preference or special liking",
+    "synonyms": "Preference, Penchant, Liking"
+  },
+  {
+    "word": "Profane",
+    "korean": "음란한, 불경한",
+    "english": "not sacred; disrespectful toward religion or morality",
+    "synonyms": "Irreverent, Blasphemous, Obscene"
+  },
+  {
+    "word": "Whimsical",
+    "korean": "기발한, 변덕스러운",
+    "english": "playfully unusual, fanciful, or unpredictable",
+    "synonyms": "Fanciful, Quirky, Capricious"
+  },
+  {
+    "word": "Pariah",
+    "korean": "따돌림받는 사람",
+    "english": "a person rejected or avoided by society",
+    "synonyms": "Outcast, Exile, Reject"
+  }
+]

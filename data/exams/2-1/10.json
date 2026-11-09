@@ -1,0 +1,488 @@
+[
+  {
+    "word": "Translucent",
+    "korean": "반투명한",
+    "english": "allowing some light to pass through but not showing clear details",
+    "synonyms": "Semitransparent, Light-transmitting"
+  },
+  {
+    "word": "Acolyte",
+    "korean": "시종, 보조 사제",
+    "english": "an assistant or follower, especially one serving in a religious ceremony",
+    "synonyms": "Attendant, Altar server, Assistant"
+  },
+  {
+    "word": "Drowsiness",
+    "korean": "졸음",
+    "english": "a state of feeling sleepy and having difficulty staying awake",
+    "synonyms": "Sleepiness, Somnolence, Torpor"
+  },
+  {
+    "word": "Waning",
+    "korean": "약해지는, 줄어드는",
+    "english": "becoming gradually weaker, smaller, or less",
+    "synonyms": "Diminishing, Declining, Fading"
+  },
+  {
+    "word": "Ward",
+    "korean": "병동",
+    "english": "a section of a hospital for patients with a particular condition",
+    "synonyms": "Hospital unit, Patient section"
+  },
+  {
+    "word": "Absurd",
+    "korean": "터무니없는, 불합리한",
+    "english": "completely unreasonable, illogical, or ridiculous",
+    "synonyms": "Ridiculous, Irrational, Preposterous"
+  },
+  {
+    "word": "Opponent",
+    "korean": "상대, 적수",
+    "english": "a person or side that competes against another",
+    "synonyms": "Adversary, Rival, Competitor"
+  },
+  {
+    "word": "Deftly",
+    "korean": "능숙하고 재빠르게",
+    "english": "in a skillful and quick manner",
+    "synonyms": "Skillfully, Adroitly, Nimbly"
+  },
+  {
+    "word": "Allude",
+    "korean": "암시하다, 넌지시 언급하다",
+    "english": "to refer to something indirectly or briefly",
+    "synonyms": "Hint, Suggest, Refer indirectly"
+  },
+  {
+    "word": "Appease",
+    "korean": "달래다, 진정시키다",
+    "english": "to calm or satisfy someone, especially to stop anger",
+    "synonyms": "Soothe, Pacify, Placate"
+  },
+  {
+    "word": "Superintendent",
+    "korean": "관리자, 책임자",
+    "english": "a person who manages or is in charge of a place or organization",
+    "synonyms": "Supervisor, Administrator, Overseer"
+  },
+  {
+    "word": "Savoring",
+    "korean": "음미하는, 맛을 즐기는",
+    "english": "enjoying a taste or experience slowly and fully",
+    "synonyms": "Relishing, Enjoying, Appreciating"
+  },
+  {
+    "word": "Whirred",
+    "korean": "윙윙 소리를 냈다",
+    "english": "made a continuous low buzzing or spinning sound",
+    "synonyms": "Buzzed, Hummed"
+  },
+  {
+    "word": "Ministries",
+    "korean": "정부 부처들",
+    "english": "government departments responsible for particular areas",
+    "synonyms": "Departments, Government agencies"
+  },
+  {
+    "word": "Indicate",
+    "korean": "나타내다, 가리키다",
+    "english": "to show, point out, or make something known",
+    "synonyms": "Show, Signal, Signify"
+  },
+  {
+    "word": "Hedge",
+    "korean": "생울타리",
+    "english": "a row of closely planted bushes forming a boundary",
+    "synonyms": "Hedgerow, Living fence"
+  },
+  {
+    "word": "Wrench",
+    "korean": "갑자기 비틀다, 심한 비틀림",
+    "english": "to twist suddenly and forcefully; a violent twisting movement",
+    "synonyms": "Twist, Jerk, Torsion"
+  },
+  {
+    "word": "Solace",
+    "korean": "위안, 위로",
+    "english": "comfort given in a time of sadness or distress",
+    "synonyms": "Comfort, Consolation, Relief"
+  },
+  {
+    "word": "Scrape",
+    "korean": "긁다, 긁힌 상처",
+    "english": "to rub or scratch a surface; a mark or wound caused by rubbing",
+    "synonyms": "Scratch, Graze, Abrasion"
+  },
+  {
+    "word": "Recollection",
+    "korean": "기억, 회상",
+    "english": "a memory or the act of remembering something",
+    "synonyms": "Memory, Recall, Remembrance"
+  },
+  {
+    "word": "Smashup",
+    "korean": "충돌사고",
+    "english": "a serious crash or collision",
+    "synonyms": "Crash, Collision, Wreck"
+  },
+  {
+    "word": "Swallow",
+    "korean": "삼키다",
+    "english": "to make food, drink, or another substance pass down the throat",
+    "synonyms": "Gulp, Ingest, Down"
+  },
+  {
+    "word": "Soothing",
+    "korean": "진정시키는, 달래는",
+    "english": "calming or relieving discomfort or distress",
+    "synonyms": "Calming, Comforting, Relieving"
+  },
+  {
+    "word": "Shadowy",
+    "korean": "어둑한, 희미한",
+    "english": "dark, dim, or not clearly seen",
+    "synonyms": "Dim, Dark, Indistinct"
+  },
+  {
+    "word": "Rack up",
+    "korean": "쌓아 올리다, 기록하다",
+    "english": "to accumulate, achieve, or record a large amount",
+    "synonyms": "Accumulate, Amass, Accrue"
+  },
+  {
+    "word": "Nausea",
+    "korean": "메스꺼움, 구역질",
+    "english": "a feeling of sickness with an urge to vomit",
+    "synonyms": "Queasiness, Sickness, Stomach upset"
+  },
+  {
+    "word": "Pavilion",
+    "korean": "별관, 정자",
+    "english": "a separate building or open structure used for shelter or events",
+    "synonyms": "Gazebo, Summerhouse, Annex"
+  },
+  {
+    "word": "Contraction",
+    "korean": "수축",
+    "english": "the process of becoming smaller or tighter",
+    "synonyms": "Shrinkage, Tightening, Constriction"
+  },
+  {
+    "word": "Wisecrack",
+    "korean": "재치 있는 농담",
+    "english": "a clever or humorous remark",
+    "synonyms": "Quip, Witticism, Joke"
+  },
+  {
+    "word": "Gleam",
+    "korean": "희미하게 빛나다, 빛",
+    "english": "to shine faintly; a small or brief light",
+    "synonyms": "Glimmer, Glint, Shine"
+  },
+  {
+    "word": "Torment",
+    "korean": "고통, 괴롭히다",
+    "english": "severe suffering; to cause someone great pain or distress",
+    "synonyms": "Agony, Anguish, Torture"
+  },
+  {
+    "word": "Anesthetic",
+    "korean": "마취제",
+    "english": "a substance that causes a loss of feeling or sensation",
+    "synonyms": "Numbing agent"
+  },
+  {
+    "word": "Incense",
+    "korean": "향, 향을 피우다",
+    "english": "a fragrant substance burned for its smell; to perfume with incense",
+    "synonyms": "Fragrant resin, Perfume"
+  },
+  {
+    "word": "Tucked",
+    "korean": "밀어 넣은, 접어 넣은",
+    "english": "pushed, folded, or placed neatly into a small space",
+    "synonyms": "Folded, Inserted, Pushed in"
+  },
+  {
+    "word": "Shrub",
+    "korean": "관목",
+    "english": "a small woody plant with several stems",
+    "synonyms": "Bush, Woody plant"
+  },
+  {
+    "word": "Bivouac",
+    "korean": "야영지, 임시 야영",
+    "english": "a temporary camp, especially for soldiers or travelers",
+    "synonyms": "Encampment, Temporary camp"
+  },
+  {
+    "word": "Cloy",
+    "korean": "물리게 하다, 진저리 나게 하다",
+    "english": "to become unpleasant through excessive sweetness or repetition",
+    "synonyms": "Satiate, Sicken, Surfeit"
+  },
+  {
+    "word": "Gurgling",
+    "korean": "졸졸거리거나 꿀꺽거리는 소리를 내는",
+    "english": "making a bubbling or liquid-flowing sound",
+    "synonyms": "Bubbling, Burbling, Gushing"
+  },
+  {
+    "word": "Lapped",
+    "korean": "찰랑거리며 닿았다, 핥았다",
+    "english": "washed gently against something; licked with the tongue",
+    "synonyms": "Washed, Rippled against, Licked"
+  },
+  {
+    "word": "Foul",
+    "korean": "고약한, 역겨운",
+    "english": "very unpleasant, offensive, or disgusting",
+    "synonyms": "Disgusting, Repulsive, Offensive"
+  },
+  {
+    "word": "Apparatus",
+    "korean": "장비, 기구",
+    "english": "a set of equipment or devices used for a particular purpose",
+    "synonyms": "Equipment, Machinery, Instruments"
+  },
+  {
+    "word": "Opalescent",
+    "korean": "유백색으로 빛나는",
+    "english": "shining with a milky, changing, pearl-like color",
+    "synonyms": "Pearly, Iridescent, Milky"
+  },
+  {
+    "word": "Adjust",
+    "korean": "조절하다, 적응하다",
+    "english": "to change something slightly or become used to new conditions",
+    "synonyms": "Modify, Regulate, Adapt"
+  },
+  {
+    "word": "Vaguely",
+    "korean": "희미하게, 막연히",
+    "english": "in an unclear, uncertain, or not very specific way",
+    "synonyms": "Indistinctly, Faintly, Uncertainly"
+  },
+  {
+    "word": "Crumble",
+    "korean": "부스러지다, 무너지다",
+    "english": "to break into small pieces or collapse",
+    "synonyms": "Disintegrate, Collapse, Fragment"
+  },
+  {
+    "word": "Broth",
+    "korean": "맑은 수프, 육수",
+    "english": "a thin soup or liquid made by cooking meat or vegetables in water",
+    "synonyms": "Stock, Bouillon, Clear soup"
+  },
+  {
+    "word": "Blunt",
+    "korean": "뭉툭한, 무딘",
+    "english": "not sharp or pointed",
+    "synonyms": "Dull, Rounded, Unsharpened"
+  },
+  {
+    "word": "Muddle",
+    "korean": "혼란스럽게 만들다, 혼란",
+    "english": "to make confused or disorganized; a state of confusion",
+    "synonyms": "Confuse, Bewilder, Confusion"
+  },
+  {
+    "word": "Criss-crossed",
+    "korean": "서로 교차한, 엇갈린",
+    "english": "crossing over one another in different directions",
+    "synonyms": "Intersected, Interlaced, Crossed"
+  },
+  {
+    "word": "Crouch",
+    "korean": "웅크리다, 쭈그리다",
+    "english": "to bend low with the knees bent and the body close to the ground",
+    "synonyms": "Squat, Hunker, Stoop"
+  },
+  {
+    "word": "Dagger",
+    "korean": "단검",
+    "english": "a short, pointed knife used as a weapon",
+    "synonyms": "Dirk, Stiletto, Short knife"
+  },
+  {
+    "word": "Beneficent",
+    "korean": "자비로운, 선을 베푸는",
+    "english": "kind, generous, and actively doing good for others",
+    "synonyms": "Benevolent, Charitable, Kind"
+  },
+  {
+    "word": "Consecrate",
+    "korean": "신성하게 하다, 봉헌하다",
+    "english": "to make something sacred or dedicate it to a holy purpose",
+    "synonyms": "Sanctify, Dedicate, Hallow"
+  },
+  {
+    "word": "Amulet",
+    "korean": "부적",
+    "english": "a small object believed to protect its wearer from harm",
+    "synonyms": "Talisman, Charm, Lucky token"
+  },
+  {
+    "word": "Duodenum",
+    "korean": "십이지장",
+    "english": "the first part of the small intestine, just beyond the stomach",
+    "synonyms": "Proximal small intestine"
+  },
+  {
+    "word": "Eternity",
+    "korean": "영원",
+    "english": "endless time; a state of lasting forever",
+    "synonyms": "Forever, Perpetuity, Endlessness"
+  },
+  {
+    "word": "Immense",
+    "korean": "거대한, 엄청난",
+    "english": "extremely large or great in size, amount, or degree",
+    "synonyms": "Enormous, Huge, Vast"
+  },
+  {
+    "word": "Contusion",
+    "korean": "타박상, 좌상",
+    "english": "an injury in which tissue is bruised without the skin being broken",
+    "synonyms": "Bruise, Bruising"
+  },
+  {
+    "word": "Dimmer",
+    "korean": "조광기, 더 희미한",
+    "english": "a device that controls light brightness; less bright",
+    "synonyms": "Brightness control, Fainter, Less bright"
+  },
+  {
+    "word": "Oozing",
+    "korean": "스며나오는, 흘러나오는",
+    "english": "slowly leaking or flowing out",
+    "synonyms": "Seeping, Leaking, Exuding"
+  },
+  {
+    "word": "Stake",
+    "korean": "말뚝, 화형대",
+    "english": "a strong post driven into the ground; a post used for execution by burning",
+    "synonyms": "Post, Peg, Execution post"
+  },
+  {
+    "word": "Jolt",
+    "korean": "갑자기 흔들다, 충격",
+    "english": "a sudden sharp movement or shock; to shake suddenly",
+    "synonyms": "Jerk, Shake, Shock"
+  },
+  {
+    "word": "Hauling",
+    "korean": "세게 끌어당기는",
+    "english": "pulling or dragging something with strong force",
+    "synonyms": "Dragging, Pulling, Tugging"
+  },
+  {
+    "word": "Duck",
+    "korean": "고개를 숙이다, 몸을 피하다",
+    "english": "to lower the head or body quickly to avoid something",
+    "synonyms": "Dodge, Stoop, Lower oneself"
+  },
+  {
+    "word": "Ruddy",
+    "korean": "불그스름한",
+    "english": "reddish in color, especially describing a healthy-looking face",
+    "synonyms": "Reddish, Rosy, Flushed"
+  },
+  {
+    "word": "Moaning",
+    "korean": "신음하는, 신음소리",
+    "english": "making or producing a long low sound of pain or distress",
+    "synonyms": "Groaning, Lamenting, Groans"
+  },
+  {
+    "word": "Wrung out",
+    "korean": "완전히 지친",
+    "english": "completely exhausted physically or emotionally",
+    "synonyms": "Exhausted, Drained, Spent"
+  },
+  {
+    "word": "Hallucination",
+    "korean": "환각",
+    "english": "an experience of sensing something that is not really there",
+    "synonyms": "False perception, Illusory sensation"
+  },
+  {
+    "word": "Spare",
+    "korean": "여분의, 남는",
+    "english": "extra and available for use; not currently needed",
+    "synonyms": "Extra, Surplus, Reserve"
+  },
+  {
+    "word": "Filter",
+    "korean": "여과 장치, 필터",
+    "english": "a device that removes unwanted material from a liquid, gas, or signal",
+    "synonyms": "Strainer, Sieve, Purifier"
+  },
+  {
+    "word": "Bordered",
+    "korean": "가장자리를 이루었다, 접해있었다",
+    "english": "formed the edge of something or was next to it",
+    "synonyms": "Edged, Adjoined, Bounded"
+  },
+  {
+    "word": "Stretcher",
+    "korean": "들것",
+    "english": "a frame used for carrying an injured or sick person",
+    "synonyms": "Litter, Patient carrier"
+  },
+  {
+    "word": "Lucid",
+    "korean": "명료한, 의식이 맑은",
+    "english": "clear and easy to understand; mentally alert",
+    "synonyms": "Clear, Coherent, Alert"
+  },
+  {
+    "word": "Lick",
+    "korean": "핥다",
+    "english": "to pass the tongue over something",
+    "synonyms": "Lap, Tongue"
+  },
+  {
+    "word": "Sniff",
+    "korean": "코를 킁킁거리다",
+    "english": "to breathe in through the nose, often to smell something",
+    "synonyms": "Snuffle, Inhale"
+  },
+  {
+    "word": "Swamp",
+    "korean": "늪, 습지",
+    "english": "an area of very wet, soft ground, often covered with plants",
+    "synonyms": "Marsh, Wetland, Bog"
+  },
+  {
+    "word": "Quake",
+    "korean": "떨다, 흔들다",
+    "english": "to shake or tremble, especially from fear or force",
+    "synonyms": "Tremble, Shake, Shiver"
+  },
+  {
+    "word": "Sizzle",
+    "korean": "지글지글 소리를 내다",
+    "english": "to make a hissing or crackling sound while frying or burning",
+    "synonyms": "Hiss, Crackle"
+  },
+  {
+    "word": "Pulley",
+    "korean": "도르래",
+    "english": "a wheel with a rope or belt used to lift or move things",
+    "synonyms": "Sheave, Lifting wheel"
+  },
+  {
+    "word": "Dungeon",
+    "korean": "지하 감옥",
+    "english": "a dark underground prison cell",
+    "synonyms": "Underground cell, Prison vault"
+  },
+  {
+    "word": "Momentary",
+    "korean": "순간적인, 잠깐의",
+    "english": "lasting for only a very short time",
+    "synonyms": "Brief, Fleeting, Transient"
+  }
+]

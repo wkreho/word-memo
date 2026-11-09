@@ -1,0 +1,476 @@
+[
+  {
+    "word": "Definitive",
+    "korean": "결정적인, 확실한",
+    "english": "final, authoritative, or clearly settled",
+    "synonyms": "Conclusive, Authoritative, Final"
+  },
+  {
+    "word": "Conscience",
+    "korean": "양심",
+    "english": "the inner sense of what is right and wrong",
+    "synonyms": "Moral sense, Scruples"
+  },
+  {
+    "word": "Predecessors",
+    "korean": "전임자",
+    "english": "people who held a position before someone else",
+    "synonyms": "Forerunners, Former officeholders"
+  },
+  {
+    "word": "Sanctity",
+    "korean": "신성함",
+    "english": "the state of being sacred or holy",
+    "synonyms": "Holiness, Sacredness, Inviolability"
+  },
+  {
+    "word": "Command",
+    "korean": "명령",
+    "english": "an order that must be obeyed",
+    "synonyms": "Order, Directive, Instruction"
+  },
+  {
+    "word": "Officialdom",
+    "korean": "어떤 단체에서 옳다고 여겨지는 원칙, 관료집단",
+    "english": "officials considered as a group, especially in government or an organization",
+    "synonyms": "Bureaucracy, Officials, Administration"
+  },
+  {
+    "word": "Bill of Rights",
+    "korean": "권리장전",
+    "english": "a formal statement of fundamental rights",
+    "synonyms": "Rights charter, Liberties charter"
+  },
+  {
+    "word": "Concomitant",
+    "korean": "동시에 발생하는",
+    "english": "happening or existing together with something else",
+    "synonyms": "Simultaneous, Concurrent, Accompanying"
+  },
+  {
+    "word": "Dissenter",
+    "korean": "반대자",
+    "english": "a person who publicly disagrees with an accepted view",
+    "synonyms": "Dissident, Objector, Opponent"
+  },
+  {
+    "word": "Juncture",
+    "korean": "연결 부분",
+    "english": "a point where things join or meet",
+    "synonyms": "Junction, Joint, Connection"
+  },
+  {
+    "word": "Dogmatic",
+    "korean": "편협한, 자기 논리에 꽉 차 있는, 독단적인",
+    "english": "asserting opinions as unquestionably true",
+    "synonyms": "Opinionated, Doctrinaire, Rigid"
+  },
+  {
+    "word": "Crucial",
+    "korean": "결정적인",
+    "english": "extremely important to the result",
+    "synonyms": "Critical, Decisive, Vital"
+  },
+  {
+    "word": "Self-contradictory",
+    "korean": "자기 모순적인, 자기당착의",
+    "english": "containing statements that conflict with each other",
+    "synonyms": "Inconsistent, Contradictory, Self-refuting"
+  },
+  {
+    "word": "Capture",
+    "korean": "잡다",
+    "english": "to catch or take control of",
+    "synonyms": "Catch, Seize, Apprehend"
+  },
+  {
+    "word": "Rage",
+    "korean": "분노",
+    "english": "extreme anger",
+    "synonyms": "Fury, Wrath, Anger"
+  },
+  {
+    "word": "Embrace",
+    "korean": "포용",
+    "english": "to accept or include willingly",
+    "synonyms": "Accept, Welcome, Include"
+  },
+  {
+    "word": "Offended",
+    "korean": "마음 상하는, 기분 나빠지는",
+    "english": "feeling hurt, upset, or insulted",
+    "synonyms": "Insulted, Hurt, Upset"
+  },
+  {
+    "word": "Tolerance",
+    "korean": "인내, 관용",
+    "english": "willingness to accept differences or endure difficulty",
+    "synonyms": "Patience, Acceptance, Forbearance"
+  },
+  {
+    "word": "Acknowledge",
+    "korean": "인정하다",
+    "english": "to accept or admit that something is true",
+    "synonyms": "Admit, Recognize, Accept"
+  },
+  {
+    "word": "Enlightenment",
+    "korean": "계몽",
+    "english": "the gaining of knowledge or understanding",
+    "synonyms": "Illumination, Education, Understanding"
+  },
+  {
+    "word": "Court's debt",
+    "korean": "법원에 빚지고 있는",
+    "english": "a debt or obligation owed to a court",
+    "synonyms": "Court-related debt"
+  },
+  {
+    "word": "Robust",
+    "korean": "강건한",
+    "english": "strong, healthy, and able to withstand difficulty",
+    "synonyms": "Strong, Sturdy, Vigorous"
+  },
+  {
+    "word": "Explicit",
+    "korean": "명료한",
+    "english": "stated clearly and directly",
+    "synonyms": "Clear, Unambiguous, Direct"
+  },
+  {
+    "word": "Precedent",
+    "korean": "전례",
+    "english": "an earlier example used as a guide",
+    "synonyms": "Prior example, Model, Earlier case"
+  },
+  {
+    "word": "Stand for",
+    "korean": "상징하다",
+    "english": "to represent or symbolize something",
+    "synonyms": "Represent, Symbolize, Signify"
+  },
+  {
+    "word": "Evocative",
+    "korean": "자극하는",
+    "english": "bringing strong feelings or images to mind",
+    "synonyms": "Suggestive, Reminiscent, Stirring"
+  },
+  {
+    "word": "Reconcile",
+    "korean": "화합하다",
+    "english": "to restore friendly relations or bring into agreement",
+    "synonyms": "Harmonize, Reunite, Make peace"
+  },
+  {
+    "word": "Deliberate",
+    "korean": "일부러",
+    "english": "done intentionally and on purpose",
+    "synonyms": "Intentional, Purposeful, Calculated"
+  },
+  {
+    "word": "Orthodoxy",
+    "korean": "받아들여지는 이론/원칙, 정설",
+    "english": "a generally accepted belief or set of principles",
+    "synonyms": "Accepted doctrine, Established belief"
+  },
+  {
+    "word": "Dogma",
+    "korean": "옳다고 믿어지는 교조/믿음, 신조",
+    "english": "a belief accepted as unquestionably true",
+    "synonyms": "Doctrine, Creed, Tenet"
+  },
+  {
+    "word": "Compulsion",
+    "korean": "의무, 강요, 강박",
+    "english": "a strong urge or force that makes someone do something",
+    "synonyms": "Coercion, Obligation, Urge"
+  },
+  {
+    "word": "Fallacy",
+    "korean": "오류",
+    "english": "a mistaken belief or error in reasoning",
+    "synonyms": "Error, Misconception, False belief"
+  },
+  {
+    "word": "Implicit",
+    "korean": "내포된",
+    "english": "suggested or understood without being directly stated",
+    "synonyms": "Implied, Unspoken, Tacit"
+  },
+  {
+    "word": "Chanted",
+    "korean": "암송하는",
+    "english": "repeated aloud in a rhythmic way",
+    "synonyms": "Recited, Intoned, Repeated"
+  },
+  {
+    "word": "Slogan",
+    "korean": "모토",
+    "english": "a short memorable phrase expressing an idea",
+    "synonyms": "Motto, Catchphrase, Watchword"
+  },
+  {
+    "word": "Banning",
+    "korean": "금지",
+    "english": "the act of officially prohibiting something",
+    "synonyms": "Prohibition, Outlawing, Proscription"
+  },
+  {
+    "word": "Desecration",
+    "korean": "위반",
+    "english": "the act of damaging or showing disrespect toward something sacred",
+    "synonyms": "Sacrilege, Profanation, Defilement"
+  },
+  {
+    "word": "Constitution",
+    "korean": "헌법",
+    "english": "the basic laws and principles of a state",
+    "synonyms": "Charter, Fundamental law"
+  },
+  {
+    "word": "Staunch",
+    "korean": "강렬한",
+    "english": "very firm, loyal, or strongly committed",
+    "synonyms": "Steadfast, Firm, Unwavering"
+  },
+  {
+    "word": "Decline",
+    "korean": "거절",
+    "english": "to politely refuse or reject",
+    "synonyms": "Refuse, Reject, Turn down"
+  },
+  {
+    "word": "Joust",
+    "korean": "경쟁",
+    "english": "to compete or struggle against someone",
+    "synonyms": "Compete, Contend, Spar"
+  },
+  {
+    "word": "As a means of",
+    "korean": "~의 수단으로",
+    "english": "as a way or method of doing something",
+    "synonyms": "By way of, As a method"
+  },
+  {
+    "word": "Unity",
+    "korean": "화합",
+    "english": "the state of being joined or in agreement",
+    "synonyms": "Harmony, Solidarity, Oneness"
+  },
+  {
+    "word": "Foster",
+    "korean": "기르다, 배양하다",
+    "english": "to encourage the growth or development of something",
+    "synonyms": "Cultivate, Nurture, Encourage"
+  },
+  {
+    "word": "Persuasion",
+    "korean": "설득",
+    "english": "the act of convincing someone",
+    "synonyms": "Convincing, Inducement, Influence"
+  },
+  {
+    "word": "Compulsion",
+    "korean": "의무, 강요, 강박",
+    "english": "a strong urge or force that makes someone do something",
+    "synonyms": "Coercion, Obligation, Urge"
+  },
+  {
+    "word": "Fortified",
+    "korean": "강화된",
+    "english": "made stronger or better protected",
+    "synonyms": "Strengthened, Reinforced, Bolstered"
+  },
+  {
+    "word": "Conviction",
+    "korean": "확신",
+    "english": "a firmly held belief or strong certainty",
+    "synonyms": "Certainty, Belief, Assurance"
+  },
+  {
+    "word": "Endanger",
+    "korean": "위험에 빠뜨리다",
+    "english": "to put someone or something in danger",
+    "synonyms": "Imperil, Jeopardize, Threaten"
+  },
+  {
+    "word": "Inspire",
+    "korean": "영감을 주다",
+    "english": "to fill someone with motivation or ideas",
+    "synonyms": "Motivate, Stimulate, Uplift"
+  },
+  {
+    "word": "Paraphrase",
+    "korean": "바꾸어 말하다",
+    "english": "to express the same meaning using different words",
+    "synonyms": "Reword, Rephrase, Restate"
+  },
+  {
+    "word": "Submit",
+    "korean": "복종하다",
+    "english": "to yield or accept another authority",
+    "synonyms": "Yield, Surrender, Obey"
+  },
+  {
+    "word": "Likelihood",
+    "korean": "~일 것 같은 상태의",
+    "english": "the chance or probability that something will happen",
+    "synonyms": "Probability, Chance, Prospect"
+  },
+  {
+    "word": "Riot",
+    "korean": "폭동",
+    "english": "a violent disturbance by a crowd",
+    "synonyms": "Uprising, Disturbance, Disorder"
+  },
+  {
+    "word": "Offense",
+    "korean": "위반",
+    "english": "an act that breaks a rule or law",
+    "synonyms": "Violation, Infraction, Transgression"
+  },
+  {
+    "word": "Immortalized",
+    "korean": "불멸의, 불사의",
+    "english": "made famous or remembered forever",
+    "synonyms": "Memorialized, Commemorated, Perpetuated"
+  },
+  {
+    "word": "Breach",
+    "korean": "위반하다, 어기다",
+    "english": "to break a law, rule, agreement, or duty",
+    "synonyms": "Violate, Infringe, Contravene"
+  },
+  {
+    "word": "Implicit",
+    "korean": "내포된",
+    "english": "suggested or understood without being directly stated",
+    "synonyms": "Implied, Unspoken, Tacit"
+  },
+  {
+    "word": "Statute",
+    "korean": "헌법",
+    "english": "a written law formally enacted by a legislative body",
+    "synonyms": "Law, Enactment, Legislation"
+  },
+  {
+    "word": "Tempted",
+    "korean": "유혹받는",
+    "english": "attracted or persuaded to do something",
+    "synonyms": "Enticed, Lured, Attracted"
+  },
+  {
+    "word": "Deservedly",
+    "korean": "~할 가치가 있는, 마땅히",
+    "english": "in a way that is rightfully earned",
+    "synonyms": "Rightfully, Justly, Fittingly"
+  },
+  {
+    "word": "Cherished",
+    "korean": "소중한",
+    "english": "deeply loved, valued, or cared for",
+    "synonyms": "Treasured, Beloved, Valued"
+  },
+  {
+    "word": "Reaffirmation",
+    "korean": "재확신",
+    "english": "a renewed statement or confirmation of belief",
+    "synonyms": "Reconfirmation, Reassertion, Renewed assurance"
+  },
+  {
+    "word": "Inclusiveness",
+    "korean": "포용성, 내포성",
+    "english": "the quality of including many different people or things",
+    "synonyms": "Openness, Inclusion, Broad acceptance"
+  },
+  {
+    "word": "Toleration",
+    "korean": "인내, 관용",
+    "english": "the practice of allowing or accepting differences",
+    "synonyms": "Tolerance, Forbearance, Acceptance"
+  },
+  {
+    "word": "Anthem",
+    "korean": "국가",
+    "english": "an official or symbolic national song",
+    "synonyms": "National song, Patriotic hymn"
+  },
+  {
+    "word": "Bombardment",
+    "korean": "폭격",
+    "english": "a continuous or heavy attack, especially with bombs",
+    "synonyms": "Bombing, Shelling, Barrage"
+  },
+  {
+    "word": "Rigidity",
+    "korean": "엄격함, 물러섬이 없는",
+    "english": "the quality of being strict, fixed, or inflexible",
+    "synonyms": "Inflexibility, Strictness, Stiffness"
+  },
+  {
+    "word": "Margin",
+    "korean": "여분의, 여백",
+    "english": "an extra amount, limit, or blank space at an edge",
+    "synonyms": "Edge, Blank space, Extra allowance"
+  },
+  {
+    "word": "Controversial",
+    "korean": "논쟁의",
+    "english": "causing public disagreement or debate",
+    "synonyms": "Contentious, Debatable, Disputed"
+  },
+  {
+    "word": "Slaughtered",
+    "korean": "죽이는",
+    "english": "killed violently or in large numbers",
+    "synonyms": "Massacred, Butchered, Killed"
+  },
+  {
+    "word": "Aspiration",
+    "korean": "열망, 염원",
+    "english": "a strong hope or ambition to achieve something",
+    "synonyms": "Ambition, Longing, Desire"
+  },
+  {
+    "word": "Reverence",
+    "korean": "존경",
+    "english": "deep respect or admiration",
+    "synonyms": "Respect, Veneration, Admiration"
+  },
+  {
+    "word": "Icon",
+    "korean": "우상",
+    "english": "a person or thing greatly admired or treated as a symbol",
+    "synonyms": "Idol, Emblem, Symbol"
+  },
+  {
+    "word": "Modicum",
+    "korean": "조금",
+    "english": "a small amount of something",
+    "synonyms": "Bit, Small amount, Trace"
+  },
+  {
+    "word": "Rebutted",
+    "korean": "반박되는",
+    "english": "answered or disproved with opposing evidence",
+    "synonyms": "Refuted, Countered, Disproved"
+  },
+  {
+    "word": "Intertwined",
+    "korean": "서로 얽힌",
+    "english": "twisted, connected, or closely linked together",
+    "synonyms": "Entwined, Interwoven, Interlaced"
+  },
+  {
+    "word": "Orthodoxy",
+    "korean": "받아들여지는 이론, 정설",
+    "english": "an accepted belief, theory, or set of principles",
+    "synonyms": "Accepted theory, Established doctrine"
+  },
+  {
+    "word": "Imposition",
+    "korean": "부과",
+    "english": "the act of forcing a rule, burden, or duty on someone",
+    "synonyms": "Enforcement, Infliction, Levying"
+  }
+]
