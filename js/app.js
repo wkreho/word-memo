@@ -1,5 +1,6 @@
 import { catalog } from '../data/catalog.js';
 import { startQuiz } from './quiz.js';
+import { createDeckTree } from './deck-tree.js';
 
 const $ = id => document.getElementById(id);
 const table = $('vocab-table');
@@ -20,7 +21,6 @@ const quizButton = $('quiz-btn');
 const quizRowData = new WeakMap();
 const deckDialog = $('deck-dialog');
 const deckButton = $('deck-btn');
-const deckInputs = new Map();
 const decksById = new Map(catalog.map(deck => [deck.id, deck]));
 const storageKey = 'word-memo.progress.v1';
 
@@ -75,48 +75,15 @@ document.querySelectorAll('[data-column]').forEach(button => {
   });
 });
 
-const deckGroups = new Map();
-for (const deck of catalog) {
-  if (!deckGroups.has(deck.group)) {
-    const group = document.createElement('details');
-    const title = document.createElement('summary');
-    title.textContent = deck.group;
-    group.append(title);
-    $('deck-groups').append(group);
-    deckGroups.set(deck.group, group);
-  }
-  const group = deckGroups.get(deck.group);
-  const label = document.createElement('label');
-  const checkbox = document.createElement('input');
-  checkbox.type = 'checkbox';
-  checkbox.value = deck.id;
-  label.append(checkbox, document.createTextNode(' ' + deck.name + ' · ' + deck.count + '개'));
-  group.append(label);
-  deckInputs.set(deck.id, checkbox);
-}
-
-function showDraftCount() {
-  const chosen = catalog.filter(deck => deckInputs.get(deck.id).checked);
-  $('deck-draft-count').textContent =
-    chosen.length + '개 단어장 · ' + chosen.reduce((sum, deck) => sum + deck.count, 0) + '단어';
-}
-
+const deckTree = createDeckTree($('deck-tree'), catalog, $('deck-draft-count'));
 deckButton.addEventListener('click', () => {
-  deckGroups.forEach((group, title) => {
-    group.open = title === catalog[0].group || selectedIds.some(id => decksById.get(id).group === title);
-  });
-  deckInputs.forEach((input, id) => { input.checked = selectedIds.includes(id); });
-  showDraftCount();
+  deckTree.open(selectedIds);
   deckDialog.showModal();
 });
-$('deck-groups').addEventListener('change', showDraftCount);
-$('deck-clear').addEventListener('click', () => {
-  deckInputs.forEach(input => { input.checked = false; });
-  showDraftCount();
-});
+$('deck-clear').addEventListener('click', () => deckTree.clear());
 $('deck-cancel').addEventListener('click', () => deckDialog.close());
 $('deck-apply').addEventListener('click', () => {
-  const ids = catalog.filter(deck => deckInputs.get(deck.id).checked).map(deck => deck.id);
+  const ids = deckTree.selectedIds();
   deckDialog.close();
   if (ids.join('|') !== selectedIds.join('|')) loadDecks(ids);
 });

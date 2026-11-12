@@ -160,11 +160,26 @@ input[type="checkbox"] { width: 1rem; height: 1rem; vertical-align: middle; acce
   background: rgb(26, 27, 33);
 }
 #deck-dialog::backdrop { background-color: rgba(0, 0, 0, 0.65); }
-.deck-groups { max-height: 55vh; overflow: auto; margin: 12px 0; }
-.deck-groups details { background: rgb(49, 50, 59); border-radius: 5px; margin: 0 0 6px; padding: 8px 12px; }
-.deck-groups summary, .deck-groups label { cursor: pointer; }
-.deck-groups label { display: block; padding: 6px 4px; }
-.deck-groups label:focus-within { background: rgb(67, 69, 81); }
+.deck-tree { max-height: 55vh; overflow: auto; margin: 12px 0; padding: 4px; }
+.deck-folder { position: relative; margin: 2px 0; }
+.deck-tree > .deck-folder { background: rgb(49, 50, 59); border-radius: 5px; }
+.deck-folder > .deck-folder-check {
+  position: absolute;
+  inset-inline-start: 6px;
+  top: 10px;
+  cursor: pointer;
+}
+.deck-folder > details > summary { padding: 7px 4px 7px 29px; cursor: pointer; overflow-wrap: anywhere; }
+.deck-folder > details > summary:hover, .deck-file:hover { background: rgb(67, 69, 81); border-radius: 5px; }
+.deck-children {
+  border-inline-start: 1px solid #626370;
+  margin-inline-start: clamp(12px, 3vw, 23px);
+  padding-inline-start: 5px;
+  padding-bottom: 3px;
+}
+.deck-file { display: flex; align-items: center; gap: 6px; padding: 5px 6px; cursor: pointer; }
+.deck-file input { flex: none; cursor: pointer; }
+.deck-node-count { color: #c0c0cb; font-size: 0.8rem; }
 
 body.quiz-active { padding: clamp(12px, 3vh, 28px); }
 .quiz-shell { margin: 0 auto; }
