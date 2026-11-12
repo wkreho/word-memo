@@ -13,7 +13,7 @@
       <div>
         <h1>English Word Memo</h1>
         <p id="selected-decks">단어장을 선택해 주세요.</p>
-        <p id="load-status" role="status" aria-live="polite"></p>
+        <p id="load-status" role="status" aria-live="polite">총 0단어 · 0개 단어장</p>
         <p id="storage-status" role="status" hidden>이 브라우저에서는 학습 기록을 저장할 수 없습니다.</p>
       </div>
       <div class="toolbar">
@@ -143,6 +143,11 @@
     <footer class="keyboard-help" id="keyboard-help">Enter: 답 제출 · 피드백을 확인한 뒤 Enter: 다음 문제</footer>
   </main>
 
-  <script type="module" src="./js/app.js"></script>
+  <script type="module">
+    import('./js/app.js?v=2').catch(error => {
+      document.getElementById('load-status').textContent = '단어장 목록을 불러오지 못했습니다. 페이지를 새로고침해 주세요.';
+      console.error(error);
+    });
+  </script>
 </body>
 </html>

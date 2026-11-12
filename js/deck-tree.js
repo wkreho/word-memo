@@ -1,12 +1,10 @@
-import { folderRoots } from '../data/catalog.js';
-
 const formatCount = new Intl.NumberFormat('ko-KR');
 
 function folderNode(name = '', path = '') {
   return { name, path, folders: new Map(), files: [], decks: [], wordCount: 0 };
 }
 
-function buildTree(catalog) {
+function buildTree(catalog, folderRoots) {
   const root = folderNode();
   for (const deck of catalog) {
     const segments = deck.path.slice('./data/'.length).split('/');
@@ -43,7 +41,7 @@ function countLabel(wordCount) {
   return span;
 }
 
-export function createDeckTree(container, catalog, status) {
+export function createDeckTree(container, catalog, status, folderRoots) {
   const selected = new Set();
   const folderInputs = [];
   const fileInputs = new Map();
@@ -116,7 +114,7 @@ export function createDeckTree(container, catalog, status) {
     for (const folder of node.folders.values()) parent.append(renderFolder(folder));
   }
 
-  renderChildren(buildTree(catalog), container);
+  renderChildren(buildTree(catalog, folderRoots), container);
 
   function setSelection(ids) {
     selected.clear();

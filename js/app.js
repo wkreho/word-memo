@@ -1,6 +1,10 @@
-import { catalog } from '../data/catalog.js';
-import { startQuiz } from './quiz.js';
-import { createDeckTree } from './deck-tree.js';
+// Use one version for the module graph and its deck data.
+const assetVersion = new URL(import.meta.url).search || '?v=2';
+const [{ catalog, folderRoots }, { startQuiz }, { createDeckTree }] = await Promise.all([
+  import('../data/catalog.js' + assetVersion),
+  import('./quiz.js' + assetVersion),
+  import('./deck-tree.js' + assetVersion)
+]);
 
 const $ = id => document.getElementById(id);
 const table = $('vocab-table');
@@ -41,6 +45,7 @@ function validWordId(id) {
 const saved = readProgress();
 const checkedIds = new Set(Array.isArray(saved.checked) ? saved.checked.filter(validWordId) : []);
 let selectedIds = [];
+let activeDeckLoad = null;
 let column = saved.column === 'synonyms' ? 'synonyms' : 'english';
 let hoveredColumn = null;
 
@@ -75,7 +80,7 @@ document.querySelectorAll('[data-column]').forEach(button => {
   });
 });
 
-const deckTree = createDeckTree($('deck-tree'), catalog, $('deck-draft-count'));
+const deckTree = createDeckTree($('deck-tree'), catalog, $('deck-draft-count'), folderRoots);
 deckButton.addEventListener('click', () => {
   deckTree.open(selectedIds);
   deckDialog.showModal();
@@ -85,11 +90,13 @@ $('deck-cancel').addEventListener('click', () => deckDialog.close());
 $('deck-apply').addEventListener('click', () => {
   const ids = deckTree.selectedIds();
   deckDialog.close();
-  if (ids.join('|') !== selectedIds.join('|')) loadDecks(ids);
+  if (activeDeckLoad || ids.join('|') !== selectedIds.join('|')) loadDecks(ids);
 });
 
-async function fetchDeck(deck) {
-  const response = await fetch(deck.path);
+async function fetchDeck(deck, signal) {
+  const url = new URL(deck.path, document.baseURI);
+  url.search = assetVersion;
+  const response = await fetch(url, { signal });
   if (!response.ok) throw new Error(deck.name + ' (' + response.status + ')');
   const entries = await response.json();
   if (!Array.isArray(entries) || entries.length !== deck.count ||
@@ -109,12 +116,16 @@ async function fetchDeck(deck) {
 }
 
 async function loadDecks(ids) {
+  activeDeckLoad?.abort();
+  const request = new AbortController();
+  activeDeckLoad = request;
   const decks = ids.map(id => decksById.get(id));
   table.setAttribute('aria-busy', 'true');
-  deckButton.disabled = quizButton.disabled = true;
+  quizButton.disabled = true;
   loadStatus.textContent = '단어장을 불러오는 중…';
   try {
-    const words = (await Promise.all(decks.map(fetchDeck))).flat();
+    const words = (await Promise.all(decks.map(deck => fetchDeck(deck, request.signal)))).flat();
+    if (activeDeckLoad !== request) return;
     renderWords(words);
     selectedIds = ids;
     $('selected-decks').textContent = decks.length
@@ -123,11 +134,16 @@ async function loadDecks(ids) {
     loadStatus.textContent = '총 ' + words.length + '단어 · ' + decks.length + '개 단어장';
     saveProgress();
   } catch (error) {
-    loadStatus.textContent = '단어장을 불러오지 못했습니다. ' + error.message;
+    if (activeDeckLoad === request) {
+      request.abort();
+      loadStatus.textContent = '단어장을 불러오지 못했습니다. ' + error.message;
+    }
   } finally {
-    table.setAttribute('aria-busy', 'false');
-    deckButton.disabled = false;
-    quizButton.disabled = !tableBody.rows.length;
+    if (activeDeckLoad === request) {
+      activeDeckLoad = null;
+      table.setAttribute('aria-busy', 'false');
+      quizButton.disabled = !tableBody.rows.length;
+    }
   }
 }
 
@@ -371,5 +387,7 @@ table.addEventListener('pointerleave', () => {
 
 setColumn(column);
 updateRowColors();
-const savedIds = Array.isArray(saved.selected) ? saved.selected : ['collection/12'];
-loadDecks(catalog.filter(deck => savedIds.includes(deck.id)).map(deck => deck.id));
+deckButton.disabled = false;
+const savedIds = Array.isArray(saved.selected) ? saved.selected : [];
+const restoredIds = catalog.filter(deck => savedIds.includes(deck.id)).map(deck => deck.id);
+if (restoredIds.length) loadDecks(restoredIds);
