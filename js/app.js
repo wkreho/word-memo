@@ -1,9 +1,10 @@
 // Use one version for the module graph and its deck data.
-const assetVersion = new URL(import.meta.url).search || '?v=2';
-const [{ catalog, folderRoots }, { startQuiz }, { createDeckTree }] = await Promise.all([
+const assetVersion = new URL(import.meta.url).search || '?v=3';
+const [{ catalog, folderRoots }, { startQuiz }, { createDeckTree }, { deckLayout, migrateProgress }] = await Promise.all([
   import('../data/catalog.js' + assetVersion),
   import('./quiz.js' + assetVersion),
-  import('./deck-tree.js' + assetVersion)
+  import('./deck-tree.js' + assetVersion),
+  import('../data/deck-migration.js' + assetVersion)
 ]);
 
 const $ = id => document.getElementById(id);
@@ -42,7 +43,7 @@ function validWordId(id) {
   return Boolean(match && Number(match[2]) < (decksById.get(match[1])?.count ?? 0));
 }
 
-const saved = readProgress();
+const saved = migrateProgress(readProgress());
 const checkedIds = new Set(Array.isArray(saved.checked) ? saved.checked.filter(validWordId) : []);
 let selectedIds = [];
 let activeDeckLoad = null;
@@ -52,6 +53,7 @@ let hoveredColumn = null;
 function saveProgress() {
   try {
     localStorage.setItem(storageKey, JSON.stringify({
+      deckLayout,
       selected: selectedIds,
       checked: [...checkedIds],
       column

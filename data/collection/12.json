@@ -50,10 +50,10 @@
   },
   {
     "word": "Deemed",
-    "korean": "여겨지다",
-    "english": "Considered or judged to have a particular quality",
+    "korean": "여겨지다, 간주",
+    "english": "Considered or judged to have a particular quality; Considered or judged to be something",
     "synonyms": "Considered, Regarded, Judged",
-    "example": "The old bridge was deemed unsafe after the storm."
+    "example": "The old bridge was deemed unsafe after the storm.\nThe bridge was deemed unsafe after the inspection."
   },
   {
     "word": "Superficial",
@@ -78,10 +78,10 @@
   },
   {
     "word": "Brutality",
-    "korean": "잔인성, 야만성",
-    "english": "Extreme cruelty or violent treatment",
-    "synonyms": "Cruelty, Savagery",
-    "example": "The report exposed the brutality of the prison guards."
+    "korean": "잔인성, 야만성, 무자비",
+    "english": "Extreme cruelty or violent treatment; Extreme cruelty or violent harshness",
+    "synonyms": "Cruelty, Savagery, Ruthlessness",
+    "example": "The report exposed the brutality of the prison guards.\nThe witnesses described the brutality of the attack."
   },
   {
     "word": "Grossly",
@@ -198,9 +198,9 @@
   {
     "word": "Legitimate",
     "korean": "합법적인, 적법한",
-    "english": "Allowed by law or accepted rules",
+    "english": "Allowed by law or accepted rules; Allowed by law or consistent with established legal rules",
     "synonyms": "Legal, Lawful, Licit",
-    "example": "The lawyer confirmed that the business was legitimate."
+    "example": "The lawyer confirmed that the business was legitimate.\nThe business operates under a legitimate license."
   },
   {
     "word": "Advocate",
@@ -347,7 +347,7 @@
     "korean": "오해",
     "english": "An incorrect belief or understanding about something",
     "synonyms": "Misunderstanding, Mistaken belief, False impression",
-    "example": "The experiment corrected a common misconception about how plants grow."
+    "example": "The experiment corrected a common misconception about how plants grow.\nThe lesson corrected a common misconception about volcanoes."
   },
   {
     "word": "Inevitably",
@@ -421,10 +421,10 @@
   },
   {
     "word": "Discontent",
-    "korean": "불만, 불만스러운 것",
-    "english": "Dissatisfaction with one's situation or with the way things are",
-    "synonyms": "Dissatisfaction, Displeasure, Unhappiness",
-    "example": "The sudden fee increase caused widespread discontent among residents."
+    "korean": "불만, 불만스러운 것, 불만스러운",
+    "english": "Dissatisfaction with one's situation or with the way things are; Dissatisfaction with a situation, or unhappy about it",
+    "synonyms": "Dissatisfaction, Displeasure, Unhappiness, Dissatisfied",
+    "example": "The sudden fee increase caused widespread discontent among residents.\nDiscontent grew among students after the study room was closed."
   },
   {
     "word": "Despitefully",
@@ -457,9 +457,9 @@
   {
     "word": "Eloquent",
     "korean": "웅변을 잘하는, 유창한",
-    "english": "Able to express ideas fluently, clearly, and persuasively",
-    "synonyms": "Articulate, Fluent, Expressive",
-    "example": "The eloquent speaker persuaded the audience to support the project."
+    "english": "Able to express ideas fluently, clearly, and persuasively; Fluent or persuasive in speaking or writing",
+    "synonyms": "Articulate, Fluent, Expressive, Persuasive",
+    "example": "The eloquent speaker persuaded the audience to support the project.\nThe eloquent speaker explained the issue clearly to the audience."
   },
   {
     "word": "Roach-infested",
@@ -471,9 +471,9 @@
   {
     "word": "Prophetic",
     "korean": "예언의, 예언적인",
-    "english": "Predicting future events or relating to prophecy",
+    "english": "Predicting future events or relating to prophecy; Accurately describing or predicting what will happen in the future",
     "synonyms": "Predictive, Foretelling, Prescient",
-    "example": "Her warning about the failing dam proved prophetic."
+    "example": "Her warning about the failing dam proved prophetic.\nHer warning about the flood proved prophetic."
   },
   {
     "word": "Antidote",
@@ -812,13 +812,6 @@
     "example": "Scientists term this process natural selection."
   },
   {
-    "word": "Deemed",
-    "korean": "간주",
-    "english": "Considered or judged to be something",
-    "synonyms": "Considered, Regarded, Judged",
-    "example": "The bridge was deemed unsafe after the inspection."
-  },
-  {
     "word": "Consented",
     "korean": "동의하다, 허락하다",
     "english": "Agreed to something or gave permission for it",
@@ -880,13 +873,6 @@
     "english": "Satisfied with what one has or with the present situation",
     "synonyms": "Satisfied, Contented, Pleased",
     "example": "She felt content with her simple life in the village."
-  },
-  {
-    "word": "Brutality",
-    "korean": "잔인성, 야만성, 무자비",
-    "english": "Extreme cruelty or violent harshness",
-    "synonyms": "Cruelty, Savagery, Ruthlessness",
-    "example": "The witnesses described the brutality of the attack."
   },
   {
     "word": "Prod",
@@ -957,13 +943,6 @@
     "english": "A determined search for something",
     "synonyms": "Search, Pursuit, Hunt",
     "example": "The scientists continued their quest for a cleaner source of energy."
-  },
-  {
-    "word": "Misconception",
-    "korean": "오해",
-    "english": "An incorrect belief or understanding about something",
-    "synonyms": "Misunderstanding, Mistaken belief, False impression",
-    "example": "The lesson corrected a common misconception about volcanoes."
   },
   {
     "word": "Repent",
@@ -1055,13 +1034,6 @@
     "english": "Held under control or prevented from being expressed freely",
     "synonyms": "Suppressed, Restrained, Subdued",
     "example": "Years of repressed anger finally surfaced during the discussion."
-  },
-  {
-    "word": "Discontent",
-    "korean": "불만, 불만스러운",
-    "english": "Dissatisfaction with a situation, or unhappy about it",
-    "synonyms": "Dissatisfaction, Displeasure, Dissatisfied",
-    "example": "Discontent grew among students after the study room was closed."
   },
   {
     "word": "Extremist",
@@ -1190,13 +1162,6 @@
     "example": "His account does not square with the evidence."
   },
   {
-    "word": "Legitimate",
-    "korean": "합법적인, 적법한",
-    "english": "Allowed by law or consistent with established legal rules",
-    "synonyms": "Lawful, Legal, Licit",
-    "example": "The business operates under a legitimate license."
-  },
-  {
     "word": "Nagging",
     "korean": "잔소리하는, 불평하는",
     "english": "Persistently criticizing, complaining, or finding fault",
@@ -1286,20 +1251,6 @@
     "english": "Seized and held something firmly",
     "synonyms": "Seized, Clutched, Gripped",
     "example": "She grasped the railing firmly as the boat rocked."
-  },
-  {
-    "word": "Eloquent",
-    "korean": "유창한",
-    "english": "Fluent or persuasive in speaking or writing",
-    "synonyms": "Articulate, Fluent, Persuasive",
-    "example": "The eloquent speaker explained the issue clearly to the audience."
-  },
-  {
-    "word": "Prophetic",
-    "korean": "예언의, 예언적인",
-    "english": "Accurately describing or predicting what will happen in the future",
-    "synonyms": "Predictive, Prescient, Foretelling",
-    "example": "Her warning about the flood proved prophetic."
   },
   {
     "word": "Notable",
